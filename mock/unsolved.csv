@@ -1,0 +1,133 @@
+Anguilla,Digicel  USD,1786,AI_DG
+Anguilla,Flow ,1550,AI_LM
+Antigua and Barbuda,Digicel  USD,1787,AG_DG
+Antigua and Barbuda,Flow ,1539,AG_LM
+Barbados,Digicel  USD,1789,BB_DG
+Barbados,Flow ,1540,BB_LM
+Bermuda,Digicel  USD,1889,BM_DG
+Botswana,BeMobile PIN ,2438,BW_BM
+Botswana,Mascom PIN ,2439,BW_MC
+Botswana,Orange PIN ,2437,BW_OR
+British Virgin Islands,Digicel  USD,1790,VG_DG
+British Virgin Islands,Flow ,1541,VG_LM
+Colombia,Virgin Mobile ,1897,CO_VM
+Costa Rica,Claro  USD,1929,CR_CR
+Costa Rica,Kolbi  USD,1626,CR_MV
+Democratic Republic of the Congo,Orange DRC,1835,CD_OR
+Dominica,Digicel  USD,1792,DM_DG
+Dominica,Flow ,1543,DM_LM
+Dominican Republic,Claro DR,1496,DO_CR
+Dominican Republic,Orange DR USD,1570,DO_OR
+Dominican Republic,Tricom DR,1560,DO_TC
+Dominican Republic,Viva DR,1488,DO_VV
+El Salvador,Claro  Bundles USD,2686,SV_CR
+El Salvador,Digicel Bundles ,2030,SV_DC
+El Salvador,Tigo  Bundles,2709,SV_TG
+India,Aircel Andhra Pradesh ,1437,IN_AC
+India,Aircel Assam ,1428,IN_AC
+India,Aircel Bihar ,1425,IN_AC
+India,Aircel Chennai ,1376,IN_AC
+India,Aircel Delhi ,1432,IN_AC
+India,Aircel HP ,1430,IN_AC
+India,Aircel JK ,1431,IN_AC
+India,Aircel Karnataka ,1438,IN_AC
+India,Aircel Kerala ,1436,IN_AC
+India,Aircel Kolkata ,1378,IN_AC
+India,Aircel Maharashtra ,1450,IN_AC
+India,Aircel Mumbai ,1433,IN_AC
+India,Aircel North East ,1429,IN_AC
+India,Aircel Orissa ,1427,IN_AC
+India,Aircel Punjab ,1910,IN_AC
+India,Aircel Rajasthan ,1912,IN_AC
+India,Aircel Tamil Nadu ,1377,IN_AC
+India,Aircel Uttar Pradesh East ,1434,IN_AC
+India,Aircel West Bengal ,1426,IN_AC
+India,DTH Airtel ,1808,IN_AD
+India,DTH Dish TV ,1804,IN_DT
+India,DTH Reliance BIG TV ,1805,IN_RL
+India,DTH Sun Direct ,1806,IN_SD
+India,DTH Tata-Sky ,1809,IN_TS
+India,DTH Videocon ,1807,IN_VD
+India,Reliance CDMA ,519,IN_RL
+India,Reliance GSM ,518,IN_RL
+India,Tata Docomo ,1457,IN_TA
+India,Tata Indicom ,622,IN_TA
+India,Videocon GSM ,1497,IN_VC
+India,Vodafone Andhra Pradesh ,1381,IN_VF
+India,Vodafone Bangalore ,1379,IN_VF
+India,Vodafone Bengal ,1391,IN_VF
+India,Vodafone Chennai ,1380,IN_VF
+India,Vodafone Delhi ,1382,IN_VF
+India,Vodafone Gujarat ,1386,IN_VF
+India,Vodafone Haryana ,1392,IN_VF
+India,Vodafone Kerala ,1393,IN_VF
+India,Vodafone Kolkata ,1385,IN_VF
+India,Vodafone Maharashtra ,1396,IN_VF
+India,Vodafone Mumbai ,1384,IN_VF
+India,Vodafone Punjab ,1387,IN_VF
+India,Vodafone Rajasthan ,1390,IN_VF
+India,Vodafone Tamil Nadu ,1395,IN_VF
+India,Vodafone Uttar Pradesh East ,1388,IN_VF
+India,Vodafone Uttar Pradesh West ,1389,IN_VF
+Indonesia,Telkomsel KartuAS ,1325,AS
+Indonesia,Three Telecom ,1327,HI
+Jamaica,Digicel  Bundles USD,2706,JM_DC
+Jamaica,Digicel  USD,1566,JM_DC
+Jamaica,Flow ,1520,JM_LM
+Liberia,Cellcom  USD,1668,LR_CC
+Liberia,MTN  USD,1648,LR_MT
+Mexico,Iusacell  USD,1607,MX_ICM
+Mexico,Movistar  USD,1598,MX_MVM
+Mexico,Nextel  USD,1667,MX_NX
+Mexico,Telcel Bundle ,2446,MX_TM
+Mexico,Telcel  USD,1601,MX_TC
+Mexico,Unefon  USD,1606,MX_UF
+Moldova,Moldcell ,1914,MD_MC
+Moldova,Orange ,1917,MD_OR
+Montserrat,Flow ,1545,MS_LM
+Nepal,NTC GSM ,1443,NP_TG
+Panama,Digicel  USD,1729,PA_DC
+Russia,KB Impuls Beeline ,307,RU_BE
+Russia,MTS ,1332,RU_MT
+Russia,Megafon Moscow ,1364,RU_MF
+Russia,Megafon-Caucasus ,1336,RU_MF
+Russia,Megafon-Center ,1337,RU_MF
+Russia,Megafon-Far East ,1339,RU_MF
+Russia,Megafon-North-West ,1340,RU_MF
+Russia,Megafon-Povolzhye ,1341,RU_MF
+Russia,Megafon-Siberia ,1342,RU_MF
+Russia,Megafon-Ural ,1344,RU_MF
+Russia,Tele2 ,1355,RU_T2
+Serbia and Montenegro,Telenor Serbia USD,2133,RS_TP
+South Africa,CellC ,1726,ZA_CC
+Spain,Vodafone  (Airtel),724,ES_VF
+St Kitts and Nevis,Digicel Saint Kitts And Nevis USD,1771,KN_DG
+St Kitts and Nevis,Flow ,1546,KN_LM
+St Lucia,Digicel ,905,LC_DG
+St Lucia,Flow ,1547,LC_LM
+St Vincent Grenadines,Digicel  USD,1798,VC_DG
+St Vincent Grenadines,Flow ,1548,VC_LM
+Tajikistan,BabilonMobile ,2052,TJ_BM
+Tajikistan,Megafone ,2054,TJ_MP
+Tajikistan,TKMobile ,2056,TJ_TM
+Tanzania,Smart ,1909,TZ_SM
+Tanzania,Tigo ,1713,TZ_TG
+Tanzania,Vodacom ,713,TZ_VC
+Tanzania,Zantel ,1551,TZ_ZT
+Thailand,AIS ,1,AIS
+Trinidad and Tobago,Digicel Trinidad Tobago,1650,TT_DC
+Trinidad and Tobago,Digicel Trinidad Tobago Bundles USD,2702,TT_DC
+Trinidad and Tobago,bMobile Trinidad Tobago,1651,TT_BM
+Turkey,Turk Telecom ,46,TR_VF
+Turks and Caicos,Digicel  USD,1891,TC_DG
+Turks and Caicos,Flow ,1549,TC_LM
+Ukraine,Kyivstar ,322,UA_KS
+Ukraine,Lifecell ,43,UA_LF
+United States,ATT PIN USA,1513,US_AT
+United States,ATT USA,1459,US_AT
+United States,Lyca Mobile PIN USA,1937,US_LC
+United States,T-Mobile USA,1464,US_TM
+United States,T-Mobile USA PIN,1987,US_TM
+United States,Verizon USA,1465,US_VW
+Uzbekistan,Beeline  USD,1942,UZ_BE
+Uzbekistan,Ucell  USD,2058,UZ_UC

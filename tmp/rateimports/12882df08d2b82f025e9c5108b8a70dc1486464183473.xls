@@ -1,0 +1,954 @@
+API Product Code,Country,Product/Operator,Denomination Currency,Min Denom,Max Denom,Denomination Step,Cost (Unit Price) - USD,USD - Cost (Forex Rate)
+AF_AW,Afghanistan,Afghanistan Afghan Wireless,AFN,50,6000,1,-,69.0622
+AF_ET,Afghanistan,Afghanistan Etisalat,AFN,50,6000,1,-,66.3217
+AF_MT,Afghanistan,Afghanistan MTN,AFN,50,6000,1,-,62.3424
+AF_RS,Afghanistan,Afghanistan Roshan,AFN,50,6000,1,-,64.94
+AI_DG,Anguilla,Anguilla Digicel,USD,5,100,1,-,1.0804
+AI_LM,Anguilla,Anguilla Lime,USD,2,100,1,-,1.0684
+AG_DG,Antigua and Barbuda,Antigua and Barbuda Digicel,USD,5,100,1,-,1.0804
+AG_LM,Antigua and Barbuda,Antigua and Barbuda Lime,USD,2,100,1,-,1.0684
+AR_MV,Argentina,Argentina Movistar,USD,5,50,1,-,1.0625
+BD_AT,Bangladesh,Bangladesh Airtel,BDT,20,1000,1,-,74.2049
+BL,Bangladesh,Bangladesh Banglalink,BDT,20,1000,1,-,74.2049
+GP,Bangladesh,Bangladesh GrameenPhone,BDT,20,1000,1,-,74.2049
+AK,Bangladesh,Bangladesh Robi Axiata,BDT,20,1000,1,-,74.2604
+BB_DG,Barbados,Barbados Digicel,BBD,10,50,1,-,2.1368
+BB_LM,Barbados,Barbados Lime,BBD,10,50,1,-,2.1368
+BJ_MT,Benin,Benin MTN,XOF,250,40000,1,-,560.7456
+BM_DG,Bermuda,Bermuda Digicel,USD,5,50,1,-,1.1485
+BO_ET,Bolivia,Bolivia Entel,USD,5,50,1,-,1.0566
+BO_TG,Bolivia,Bolivia Tigo,USD,5,30,1,-,1.1052
+BO_VV,Bolivia,Bolivia Viva,USD,5,50,1,-,1.0743
+BW_BM,Botswana,Botswana beMobile,BWP,10,10,0,0.92,-
+BW_BM,Botswana,Botswana beMobile,BWP,20,20,0,1.84,-
+BW_BM,Botswana,Botswana beMobile,BWP,50,50,0,4.61,-
+BW_BM,Botswana,Botswana beMobile,BWP,100,100,0,9.22,-
+BW_MC,Botswana,Botswana Mascom Airtime,BWP,10,10,0,0.92,-
+BW_MC,Botswana,Botswana Mascom Airtime,BWP,20,20,0,1.84,-
+BW_MC,Botswana,Botswana Mascom Airtime,BWP,60,60,0,5.53,-
+BW_MC,Botswana,Botswana Mascom Airtime,BWP,100,100,0,9.22,-
+BW_OR,Botswana,Botswana Orange,BWP,10,10,0,0.92,-
+BW_OR,Botswana,Botswana Orange,BWP,20,20,0,1.84,-
+BW_OR,Botswana,Botswana Orange,BWP,50,50,0,4.61,-
+BW_OR,Botswana,Botswana Orange,BWP,100,100,0,9.22,-
+BR_CR,Brazil,Brazil Claro,BRL,10,10,0,3.42,-
+BR_CR,Brazil,Brazil Claro,BRL,15,15,0,5.15,-
+BR_CR,Brazil,Brazil Claro,BRL,20,20,0,6.87,-
+BR_CR,Brazil,Brazil Claro,BRL,30,30,0,10.29,-
+BR_CR,Brazil,Brazil Claro,BRL,50,50,0,17.15,-
+BR_NX,Brazil,Brazil Nextel,BRL,20,20,0,6.87,-
+BR_NX,Brazil,Brazil Nextel,BRL,30,30,0,10.29,-
+BR_OI,Brazil,Brazil Oi,BRL,18,18,0,6.18,-
+BR_OI,Brazil,Brazil Oi,BRL,20,20,0,6.87,-
+BR_OI,Brazil,Brazil Oi,BRL,25,25,0,8.58,-
+BR_OI,Brazil,Brazil Oi,BRL,35,35,0,12.02,-
+BR_OI,Brazil,Brazil Oi,BRL,50,50,0,27.42,-
+BR_TI,Brazil,Brazil TIM,BRL,15,15,0,5.15,-
+BR_TI,Brazil,Brazil TIM,BRL,20,20,0,6.87,-
+BR_TI,Brazil,Brazil TIM,BRL,30,30,0,10.29,-
+BR_TI,Brazil,Brazil TIM,BRL,35,35,0,12.02,-
+BR_TI,Brazil,Brazil TIM,BRL,50,50,0,17.15,-
+BR_VV,Brazil,Brazil Vivo,BRL,10,10,0,3.42,-
+BR_VV,Brazil,Brazil Vivo,BRL,15,15,0,5.15,-
+BR_VV,Brazil,Brazil Vivo,BRL,20,20,0,6.87,-
+BR_VV,Brazil,Brazil Vivo,BRL,25,25,0,8.58,-
+BR_VV,Brazil,Brazil Vivo,BRL,35,35,0,12.02,-
+BF_OR,Burkina Faso,Burkina Faso Onatel,EUR,3,3,0,3.17,-
+BF_OR,Burkina Faso,Burkina Faso Onatel,EUR,7.5,7.5,0,7.92,-
+BF_OR,Burkina Faso,Burkina Faso Onatel,EUR,15,15,0,15.83,-
+BF_OR,Burkina Faso,Burkina Faso Onatel,EUR,30,30,0,31.67,-
+BF_OR,Burkina Faso,Burkina Faso Onatel,XOF,2000,2000,0,3.17,-
+BF_OR,Burkina Faso,Burkina Faso Onatel,XOF,5000,5000,0,7.92,-
+BF_OR,Burkina Faso,Burkina Faso Onatel,XOF,10000,10000,0,15.83,-
+BF_OR,Burkina Faso,Burkina Faso Onatel,XOF,20000,20000,0,31.67,-
+KH_MT,Cambodia,Cambodia CamGSM (Mobitel),USD,1,50,1,-,1.0049
+KH_MF,Cambodia,Cambodia Metfone,USD,2,2,0,2.09,-
+KH_MF,Cambodia,Cambodia Metfone,USD,3,3,0,3.14,-
+KH_MF,Cambodia,Cambodia Metfone,USD,5,5,0,5.22,-
+KH_MF,Cambodia,Cambodia Metfone,USD,10,10,0,10.43,-
+KH_MF,Cambodia,Cambodia Metfone,USD,20,20,0,20.85,-
+KH_MF,Cambodia,Cambodia Metfone,USD,50,50,0,52.12,-
+KH_SM,Cambodia,Cambodia Smart Axiata,USD,1,50,1,-,0.9735
+CM_MT,Cameroon,Cameroon MTN,XAF,250,40000,1,-,576.9109
+CM_OR,Cameroon,Cameroon Orange,EUR,3,3,0,3.4,-
+CM_OR,Cameroon,Cameroon Orange,EUR,7.5,7.5,0,7.92,-
+CM_OR,Cameroon,Cameroon Orange,EUR,15,15,0,15.83,-
+CM_OR,Cameroon,Cameroon Orange,EUR,30,30,0,31.67,-
+CM_OR,Cameroon,Cameroon Orange,XAF,1950,1950,0,3.17,-
+CM_OR,Cameroon,Cameroon Orange,XAF,4900,4900,0,7.92,-
+CM_OR,Cameroon,Cameroon Orange,XAF,9850,9850,0,15.83,-
+CM_OR,Cameroon,Cameroon Orange,XAF,19700,19700,0,31.67,-
+KY_DG,Cayman Islands,Cayman Islands Digicel,USD,5,50,1,-,1.0989
+KY_LM,Cayman Islands,Cayman Islands Lime,USD,5,50,1,-,1.0684
+CF_OR,Central African Republic,Central African Republic Orange,EUR,3,3,0,3.17,-
+CF_OR,Central African Republic,Central African Republic Orange,EUR,7.5,7.5,0,7.92,-
+CF_OR,Central African Republic,Central African Republic Orange,EUR,15,15,0,15.83,-
+CF_OR,Central African Republic,Central African Republic Orange,EUR,30,30,0,31.67,-
+CF_OR,Central African Republic,Central African Republic Orange,XAF,2000,2000,0,3.17,-
+CF_OR,Central African Republic,Central African Republic Orange,XAF,5000,5000,0,7.92,-
+CF_OR,Central African Republic,Central African Republic Orange,XAF,10000,10000,0,15.83,-
+CF_OR,Central African Republic,Central African Republic Orange,XAF,20000,20000,0,31.67,-
+CH,China,China Mobile,CNY,30,30,0,4.66,-
+CH,China,China Mobile,CNY,50,50,0,7.71,-
+CH,China,China Mobile,CNY,100,100,0,15.42,-
+CH,China,China Mobile,CNY,200,200,0,28.94,-
+CH,China,China Mobile,CNY,300,300,0,43.41,-
+CH,China,China Mobile,CNY,500,500,0,72.35,-
+CN_CT,China,China Telecom,CNY,30,30,0,4.66,-
+CN_CT,China,China Telecom,CNY,50,50,0,7.72,-
+CN_CT,China,China Telecom,CNY,100,100,0,15.45,-
+CN_CT,China,China Telecom,CNY,200,200,0,28.94,-
+CN_CT,China,China Telecom,CNY,300,300,0,43.41,-
+CN_CT,China,China Telecom,CNY,500,500,0,72.35,-
+CU,China,China Unicom,CNY,30,30,0,4.66,-
+CU,China,China Unicom,CNY,50,50,0,7.72,-
+CU,China,China Unicom,CNY,100,100,0,15.45,-
+CU,China,China Unicom,CNY,200,200,0,28.94,-
+CU,China,China Unicom,CNY,300,300,0,43.41,-
+CU,China,China Unicom,CNY,500,500,0,72.35,-
+CO_CC,Colombia,Colombia Comcel,USD,0.37,37,0.37,-,1.0684
+CO_ET,Colombia,Colombia ETB,USD,1,50,1,-,1.0684
+CO_MV,Colombia,Colombia Movistar,USD,1,50,1,-,1.0625
+CO_TG,Colombia,Colombia Tigo,USD,1,50,1,-,1.1447
+CO_UF,Colombia,Colombia Uff Movil,USD,1,50,1,-,1.0684
+CO_UN,Colombia,Colombia Une,USD,1,50,1,-,1.0684
+CO_VM,Colombia,Colombia Virgin,USD,1,50,1,-,1.0684
+CG_MT,Congo,Congo MTN,XAF,250,40000,1,-,576.9109
+CR_CR,Costa Rica,Costa Rica Claro,USD,2,100,1,-,1.1312
+CR_KB,Costa Rica,Costa Rica Kolbi,USD,5,15,5,-,1.0865
+CR_MV,Costa Rica,Costa Rica Movistar,USD,2,50,1,-,1.0625
+CI_MT,Cote Divoire,Ivory Coast MTN,XOF,5000,40000,100,-,577.1539
+CI_OR,Cote Divoire,Ivory Coast Orange,EUR,7.5,7.5,0,7.92,-
+CI_OR,Cote Divoire,Ivory Coast Orange,EUR,15,15,0,15.83,-
+CI_OR,Cote Divoire,Ivory Coast Orange,EUR,30,30,0,31.67,-
+CI_OR,Cote Divoire,Ivory Coast Orange,XOF,4920,4920,0,7.92,-
+CI_OR,Cote Divoire,Ivory Coast Orange,XOF,9840,9840,0,15.83,-
+CI_OR,Cote Divoire,Ivory Coast Orange,XOF,19680,19680,0,31.67,-
+CU_CC,Cuba,Cuba Cubacel,CUC,10,10,0,9.57,-
+CU_CC,Cuba,Cuba Cubacel,CUC,15,15,0,14.35,-
+CU_CC,Cuba,Cuba Cubacel,CUC,20,20,0,19.14,-
+CU_CC,Cuba,Cuba Cubacel,CUC,25,25,0,23.92,-
+CU_CC,Cuba,Cuba Cubacel,CUC,30,30,0,28.7,-
+CU_CC,Cuba,Cuba Cubacel,CUC,40,40,0,38.27,-
+CU_CC,Cuba,Cuba Cubacel,CUC,50,50,0,47.84,-
+CY_MT,Cyprus,Cyprus MTN,EUR,5,50,1,-,0.9135
+CD_OR,Democratic Republic Of Congo,Democratic Republic of Congo (DRC) Orange,EUR,3,3,0,3.17,-
+CD_OR,Democratic Republic Of Congo,Democratic Republic of Congo (DRC) Orange,USD,3.9,3.9,0,3.17,-
+CD_OR,Democratic Republic Of Congo,Democratic Republic of Congo (DRC) Orange,EUR,7.5,7.5,0,7.92,-
+CD_OR,Democratic Republic Of Congo,Democratic Republic of Congo (DRC) Orange,USD,9.75,9.75,0,7.92,-
+CD_OR,Democratic Republic Of Congo,Democratic Republic of Congo (DRC) Orange,EUR,15,15,0,15.83,-
+CD_OR,Democratic Republic Of Congo,Democratic Republic of Congo (DRC) Orange,USD,19.5,19.5,0,15.83,-
+CD_OR,Democratic Republic Of Congo,Democratic Republic of Congo (DRC) Orange,EUR,30,30,0,31.67,-
+CD_OR,Democratic Republic Of Congo,Democratic Republic of Congo (DRC) Orange,USD,39,39,0,31.67,-
+DM_DG,Dominica,Dominica Digicel,USD,2,100,1,-,1.0804
+DM_LM,Dominica,Dominica Lime,USD,2,100,1,-,1.0927
+DO_CR,Dominican Republic,Dominican Claro,USD,5,50,1,-,1.0804
+DO_OR,Dominican Republic,Dominican Orange,USD,5,30,1,-,1.0452
+DO_TC,Dominican Republic,Dominican Rep. Tricom,USD,3,3,0,2.75,-
+DO_TC,Dominican Republic,Dominican Rep. Tricom,USD,6,6,0,5.49,-
+DO_TC,Dominican Republic,Dominican Rep. Tricom,USD,11,11,0,10.07,-
+DO_TC,Dominican Republic,Dominican Rep. Tricom,USD,16,16,0,14.64,-
+DO_TC,Dominican Republic,Dominican Rep. Tricom,USD,30,30,0,27.46,-
+DO_VV,Dominican Republic,Dominican Viva,USD,5,20,1,-,1.1312
+EC_AL,Ecuador,Ecuador Alegro,USD,2,30,1,-,1.0684
+EC_CR,Ecuador,Ecuador Claro,USD,4,4,0,3.66,-
+EC_CR,Ecuador,Ecuador Claro,USD,6,6,0,5.49,-
+EC_CR,Ecuador,Ecuador Claro,USD,7,7,0,6.41,-
+EC_CR,Ecuador,Ecuador Claro,USD,11,11,0,10.07,-
+EC_CR,Ecuador,Ecuador Claro,USD,22,22,0,20.13,-
+EC_CR,Ecuador,Ecuador Claro,USD,33,33,0,30.2,-
+EC_MV,Ecuador,Ecuador Movistar,USD,2,70,1,-,1.0625
+EG_ET,Egypt,Egypt Etisalat,EGP,5.5,5.5,0,0.31,-
+EG_ET,Egypt,Egypt Etisalat,EGP,11,11,0,0.62,-
+EG_ET,Egypt,Egypt Etisalat,EGP,16.5,16.5,0,0.93,-
+EG_ET,Egypt,Egypt Etisalat,EGP,22,22,0,1.24,-
+EG_ET,Egypt,Egypt Etisalat,EGP,27.5,27.5,0,1.55,-
+EG_ET,Egypt,Egypt Etisalat,EGP,44,44,0,2.48,-
+EG_ET,Egypt,Egypt Etisalat,EGP,55,55,0,3.1,-
+EG_ET,Egypt,Egypt Etisalat,EGP,110,110,0,6.19,-
+EG_ET,Egypt,Egypt Etisalat,EGP,220,220,0,12.39,-
+EG_MN,Egypt,Egypt Mobinil,EGP,5.5,5.5,0,0.29,-
+EG_MN,Egypt,Egypt Mobinil,EGP,11,11,0,0.58,-
+EG_MN,Egypt,Egypt Mobinil,EGP,16.5,16.5,0,0.87,-
+EG_MN,Egypt,Egypt Mobinil,EGP,22,22,0,1.16,-
+EG_MN,Egypt,Egypt Mobinil,EGP,27.5,27.5,0,1.45,-
+EG_MN,Egypt,Egypt Mobinil,EGP,44,44,0,2.32,-
+EG_MN,Egypt,Egypt Mobinil,EGP,55,55,0,2.89,-
+EG_MN,Egypt,Egypt Mobinil,EGP,110,110,0,5.79,-
+EG_MN,Egypt,Egypt Mobinil,EGP,220,220,0,11.58,-
+EG_OR,Egypt,Egypt Orange,EGP,5.5,5.5,0,0.57,-
+EG_OR,Egypt,Egypt Orange,EGP,11,11,0,1.15,-
+EG_OR,Egypt,Egypt Orange,EGP,16.5,16.5,0,1.72,-
+EG_OR,Egypt,Egypt Orange,EGP,22,22,0,2.3,-
+EG_OR,Egypt,Egypt Orange,EGP,27.5,27.5,0,2.87,-
+EG_OR,Egypt,Egypt Orange,EGP,44,44,0,4.59,-
+EG_OR,Egypt,Egypt Orange,EGP,55,55,0,5.74,-
+EG_OR,Egypt,Egypt Orange,EGP,110,110,0,11.48,-
+EG_OR,Egypt,Egypt Orange,EGP,220,220,0,22.96,-
+EG_VF,Egypt,Egypt Vodafone,EGP,5.5,5.5,0,0.31,-
+EG_VF,Egypt,Egypt Vodafone,EGP,11,11,0,0.62,-
+EG_VF,Egypt,Egypt Vodafone,EGP,16.5,16.5,0,0.93,-
+EG_VF,Egypt,Egypt Vodafone,EGP,22,22,0,1.24,-
+EG_VF,Egypt,Egypt Vodafone,EGP,27.5,27.5,0,1.55,-
+EG_VF,Egypt,Egypt Vodafone,EGP,44,44,0,2.48,-
+EG_VF,Egypt,Egypt Vodafone,EGP,55,55,0,3.1,-
+EG_VF,Egypt,Egypt Vodafone,EGP,110,110,0,6.19,-
+EG_VF,Egypt,Egypt Vodafone,EGP,220,220,0,12.39,-
+SV_CR,El Salvador,Salvador Claro,USD,2,100,1,-,1.1312
+SV_DC,El Salvador,Salvador Digicel,USD,5,75,1,-,1.0804
+SV_MV,El Salvador,Salvador Movistar,USD,5,50,1,-,1.0625
+SV_TG,El Salvador,Salvador Tigo,USD,5,5,0,4.58,-
+SV_TG,El Salvador,Salvador Tigo,USD,10,10,0,9.15,-
+SV_TG,El Salvador,Salvador Tigo,USD,20,20,0,18.3,-
+SV_TG,El Salvador,Salvador Tigo,USD,25,25,0,22.88,-
+SV_TG,El Salvador,Salvador Tigo,USD,40,40,0,36.61,-
+DE_BA,Germany,Germany Base,EUR,15,15,0,17.45,-
+DE_BA,Germany,Germany Base,EUR,20,20,0,23.26,-
+DE_BA,Germany,Germany Base,EUR,25,25,0,29.08,-
+DE_BA,Germany,Germany Base,EUR,30,30,0,34.89,-
+DE_BA,Germany,Germany Base,EUR,50,50,0,58.15,-
+DE_EP,Germany,Germany EPlus,EUR,15,15,0,17.45,-
+DE_EP,Germany,Germany EPlus,EUR,20,20,0,23.26,-
+DE_EP,Germany,Germany EPlus,EUR,25,25,0,29.08,-
+DE_EP,Germany,Germany EPlus,EUR,30,30,0,34.89,-
+DE_EP,Germany,Germany EPlus,EUR,50,50,0,58.15,-
+DE_LB,Germany,Germany Lebara,EUR,15,15,0,17.45,-
+DE_LB,Germany,Germany Lebara,EUR,20,20,0,23.26,-
+DE_LB,Germany,Germany Lebara,EUR,30,30,0,34.89,-
+DE_LB,Germany,Germany Lebara,EUR,50,50,0,58.15,-
+DE_O2,Germany,Germany O2,EUR,15,15,0,17.45,-
+DE_O2,Germany,Germany O2,EUR,20,20,0,23.26,-
+DE_O2,Germany,Germany O2,EUR,25,25,0,29.08,-
+DE_O2,Germany,Germany O2,EUR,30,30,0,34.89,-
+DE_O2,Germany,Germany O2,EUR,50,50,0,58.15,-
+DE_TM,Germany,Germany T Mobile,EUR,15,15,0,17.45,-
+DE_TM,Germany,Germany T Mobile,EUR,20,20,0,23.26,-
+DE_TM,Germany,Germany T Mobile,EUR,25,25,0,29.08,-
+DE_TM,Germany,Germany T Mobile,EUR,30,30,0,34.89,-
+DE_TM,Germany,Germany T Mobile,EUR,50,50,0,58.15,-
+DE_VF,Germany,Germany Vodafone,EUR,15,15,0,17.45,-
+DE_VF,Germany,Germany Vodafone,EUR,20,20,0,23.26,-
+DE_VF,Germany,Germany Vodafone,EUR,25,25,0,29.08,-
+DE_VF,Germany,Germany Vodafone,EUR,30,30,0,34.89,-
+DE_VF,Germany,Germany Vodafone,EUR,50,50,0,58.15,-
+GH_AT,Ghana,Ghana Airtel,GHS,1,100,1,-,4.5914
+GH_EX,Ghana,Ghana Expresso,GHS,1,100,1,-,4.1945
+GH_GM,Ghana,Ghana Glo Ghana,GHS,1,100,1,-,3.6449
+GH_MT,Ghana,Ghana MTN,GHS,1,100,1,-,4.0267
+GH_TG,Ghana,Ghana Tigo,GHS,1,100,1,-,4.1945
+GH_VF,Ghana,Ghana Vodafone,GHS,1,100,1,-,3.6449
+GD_DG,Grenada,Grenada Digicel,USD,5,100,1,-,1.0804
+GD_LM,Grenada,Grenada Lime,USD,2,100,1,-,1.1447
+GP_DG,Guadeloupe,Guadeloupe Digicel,USD,4,70,1,-,1.0452
+GT_CR,Guatemala,Guatemala Claro,USD,2,100,1,-,1.1181
+GT_MV,Guatemala,Guatemala Movistar,USD,2,70,0.1,-,1.0625
+GT_TG,Guatemala,Guatemala Tigo,USD,7,7,0,6.19,-
+GT_TG,Guatemala,Guatemala Tigo,USD,10,10,0,8.84,-
+GT_TG,Guatemala,Guatemala Tigo,USD,14,14,0,12.38,-
+GT_TG,Guatemala,Guatemala Tigo,USD,15,15,0,13.26,-
+GT_TG,Guatemala,Guatemala Tigo,USD,20,20,0,17.68,-
+GT_TG,Guatemala,Guatemala Tigo,USD,25,25,0,22.62,-
+GT_TG,Guatemala,Guatemala Tigo,USD,30,30,0,26.52,-
+GN_CC,Guinea,Guinea Cellcom,GNF,10000,250000,1,-,9550.1862
+GN_MT,Guinea,Guinea MTN,GNF,5000,900000,500,-,6771.3976
+GN_OR,Guinea,Guinea Orange ,EUR,3,3,0,3.17,-
+GN_OR,Guinea,Guinea Orange ,EUR,7.5,7.5,0,7.92,-
+GN_OR,Guinea,Guinea Orange ,EUR,15,15,0,15.83,-
+GN_OR,Guinea,Guinea Orange ,EUR,30,30,0,31.67,-
+GW_OR,Guinea-Bissau,Guinea-Bissau Orange,EUR,3,3,0,3.17,-
+GW_OR,Guinea-Bissau,Guinea-Bissau Orange,EUR,7.5,7.5,0,7.92,-
+GW_OR,Guinea-Bissau,Guinea-Bissau Orange,EUR,15,15,0,15.83,-
+GW_OR,Guinea-Bissau,Guinea-Bissau Orange,EUR,30,30,0,31.67,-
+GW_OR,Guinea-Bissau,Guinea-Bissau Orange,XOF,1950,1950,0,3.17,-
+GW_OR,Guinea-Bissau,Guinea-Bissau Orange,XOF,4920,4920,0,7.92,-
+GW_OR,Guinea-Bissau,Guinea-Bissau Orange,XOF,9840,9840,0,15.83,-
+GW_OR,Guinea-Bissau,Guinea-Bissau Orange,XOF,19680,19680,0,31.67,-
+GY_CL,Guyana,Guyana Cellink,USD,2,70,1,-,1.0121
+GY_DG,Guyana,Guyana Digicel,USD,5,100,1,-,1.1246
+HT_DC,Haiti,Haiti Digicel,USD,5,70,1,-,1.1312
+HT_NC,Haiti,Haiti Natcom,USD,1,100,1,-,1.1447
+HT_VL,Haiti,Haiti Voila,USD,5,75,1,-,1.1246
+HN_CR,Honduras,Honduras Claro,USD,2,100,1,-,1.1312
+HN_TG,Honduras,Honduras Tigo,USD,5,50,1,-,1.1312
+IN_AC,India,India Aircel,INR,10,3000,1,-,64.7339
+IN_AD,India,India Airtel DTH TV,INR,10,3000,1,-,64.08
+IN_AT,India,India Bharti Airtel,INR,10,3000,1,-,64.08
+IN_BT,India,India Big TV,INR,10,3000,1,-,64.08
+IN_BS,India,India BSNL,INR,10,3000,1,-,64.7339
+IN_DT,India,India Dish TV,INR,10,3000,1,-,64.08
+IN_ID,India,India Idea Cellular,INR,10,3000,1,-,64.08
+IN_MT,India,India MTS,INR,10,3000,1,-,64.7339
+IN_RL,India,India Reliance Communications,INR,10,3000,1,-,64.7339
+IN_SD,India,India Sun Direct TV,INR,10,3000,1,-,64.08
+IN_TS,India,India Tata Sky TV,INR,10,3000,1,-,64.08
+IN_TA,India,India Tata Teleservices,INR,10,3000,1,-,64.5692
+IN_UN,India,India Uninor,INR,10,3000,1,-,64.7339
+IN_VC,India,India Videocon,INR,10,3000,1,-,64.7339
+IN_VD,India,India Videocon D2H TV,INR,10,3000,1,-,64.08
+IN_VF,India,India Vodafone,INR,10,3000,1,-,64.08
+ID_AM,Indonesia,Alfamart,IDR,20000,20000,0,1.6,-
+ID_AM,Indonesia,Alfamart,IDR,50000,50000,0,4.01,-
+ID_AM,Indonesia,Alfamart,IDR,100000,100000,0,8.01,-
+AX,Indonesia,Indonesia Axis,IDR,5000,5000,0,0.4,-
+AX,Indonesia,Indonesia Axis,IDR,10000,10000,0,0.86,-
+AX,Indonesia,Indonesia Axis,IDR,25000,25000,0,1.96,-
+AX,Indonesia,Indonesia Axis,IDR,50000,50000,0,3.93,-
+AX,Indonesia,Indonesia Axis,IDR,100000,100000,0,7.85,-
+ES,Indonesia,Indonesia Bakrie Esia,IDR,5000,5000,0,0.41,-
+ES,Indonesia,Indonesia Bakrie Esia,IDR,10000,10000,0,0.85,-
+ES,Indonesia,Indonesia Bakrie Esia,IDR,25000,25000,0,1.98,-
+ES,Indonesia,Indonesia Bakrie Esia,IDR,50000,50000,0,3.93,-
+ES,Indonesia,Indonesia Bakrie Esia,IDR,100000,100000,0,7.77,-
+HI,Indonesia,Indonesia Hutchison Three,IDR,5000,5000,0,0.39,-
+HI,Indonesia,Indonesia Hutchison Three,IDR,10000,10000,0,0.79,-
+HI,Indonesia,Indonesia Hutchison Three,IDR,25000,25000,0,1.96,-
+HI,Indonesia,Indonesia Hutchison Three,IDR,30000,30000,0,2.36,-
+HI,Indonesia,Indonesia Hutchison Three,IDR,50000,50000,0,3.93,-
+HI,Indonesia,Indonesia Hutchison Three,IDR,100000,100000,0,7.85,-
+IM,Indonesia,Indonesia Indosat,IDR,5000,5000,0,0.47,-
+IM,Indonesia,Indonesia Indosat,IDR,10000,10000,0,0.88,-
+IM,Indonesia,Indonesia Indosat,IDR,20000,20000,0,1.6,-
+IM,Indonesia,Indonesia Indosat,IDR,25000,25000,0,2.02,-
+IM,Indonesia,Indonesia Indosat,IDR,30000,30000,0,2.38,-
+IM,Indonesia,Indonesia Indosat,IDR,50000,50000,0,3.97,-
+IM,Indonesia,Indonesia Indosat,IDR,100000,100000,0,7.93,-
+ID_PL,Indonesia,Indonesia PLN,IDR,20000,20000,0,1.73,-
+ID_PL,Indonesia,Indonesia PLN,IDR,50000,50000,0,4.14,-
+ID_PL,Indonesia,Indonesia PLN,IDR,100000,100000,0,8.14,-
+ST,Indonesia,Indonesia SmartFren,IDR,5000,5000,0,0.4,-
+ST,Indonesia,Indonesia SmartFren,IDR,10000,10000,0,0.8,-
+ST,Indonesia,Indonesia SmartFren,IDR,25000,25000,0,1.98,-
+ST,Indonesia,Indonesia SmartFren,IDR,50000,50000,0,3.97,-
+ST,Indonesia,Indonesia SmartFren,IDR,100000,100000,0,7.85,-
+AS,Indonesia,Indonesia Telkomsel Kartu AS,IDR,5000,5000,0,0.4,-
+AS,Indonesia,Indonesia Telkomsel Kartu AS,IDR,10000,10000,0,0.8,-
+AS,Indonesia,Indonesia Telkomsel Kartu AS,IDR,20000,20000,0,1.6,-
+AS,Indonesia,Indonesia Telkomsel Kartu AS,IDR,25000,25000,0,2,-
+AS,Indonesia,Indonesia Telkomsel Kartu AS,IDR,50000,50000,0,3.97,-
+AS,Indonesia,Indonesia Telkomsel Kartu AS,IDR,100000,100000,0,7.77,-
+SP,Indonesia,Indonesia Telkomsel Simpati,IDR,10000,10000,0,0.8,-
+SP,Indonesia,Indonesia Telkomsel Simpati,IDR,20000,20000,0,1.6,-
+SP,Indonesia,Indonesia Telkomsel Simpati,IDR,25000,25000,0,2,-
+SP,Indonesia,Indonesia Telkomsel Simpati,IDR,50000,50000,0,3.97,-
+SP,Indonesia,Indonesia Telkomsel Simpati,IDR,100000,100000,0,7.77,-
+XL,Indonesia,Indonesia XL Axiata,IDR,5000,5000,0,0.46,-
+XL,Indonesia,Indonesia XL Axiata,IDR,10000,10000,0,0.86,-
+XL,Indonesia,Indonesia XL Axiata,IDR,25000,25000,0,1.96,-
+XL,Indonesia,Indonesia XL Axiata,IDR,50000,50000,0,3.93,-
+XL,Indonesia,Indonesia XL Axiata,IDR,100000,100000,0,7.85,-
+IT_HC,Italy,Italy Hutchison Three,EUR,10,10,0,11.63,-
+IT_HC,Italy,Italy Hutchison Three,EUR,20,20,0,23.26,-
+IT_HC,Italy,Italy Hutchison Three,EUR,30,30,0,34.89,-
+IT_HC,Italy,Italy Hutchison Three,EUR,50,50,0,58.15,-
+IT_TI,Italy,Italy TIM,EUR,5,5,0,5.82,-
+IT_TI,Italy,Italy TIM,EUR,10,10,0,11.63,-
+IT_TI,Italy,Italy TIM,EUR,15,15,0,17.45,-
+IT_TI,Italy,Italy TIM,EUR,20,20,0,23.26,-
+IT_TI,Italy,Italy TIM,EUR,30,30,0,34.89,-
+IT_TI,Italy,Italy TIM,EUR,50,50,0,58.15,-
+IT_TI,Italy,Italy TIM,EUR,100,100,0,116.3,-
+IT_VF,Italy,Italy Vodafone,EUR,5,5,0,5.82,-
+IT_VF,Italy,Italy Vodafone,EUR,10,10,0,11.63,-
+IT_VF,Italy,Italy Vodafone,EUR,20,20,0,23.26,-
+IT_VF,Italy,Italy Vodafone,EUR,30,30,0,34.89,-
+IT_VF,Italy,Italy Vodafone,EUR,50,50,0,58.15,-
+IT_WI,Italy,Italy Wind,EUR,5,5,0,5.82,-
+IT_WI,Italy,Italy Wind,EUR,10,10,0,11.63,-
+IT_WI,Italy,Italy Wind,EUR,15,15,0,17.45,-
+IT_WI,Italy,Italy Wind,EUR,25,25,0,29.08,-
+IT_WI,Italy,Italy Wind,EUR,50,50,0,58.15,-
+JM_DC,Jamaica,Jamaica Digicel,USD,5,50,1,-,1.0995
+JM_LM,Jamaica,Jamaica Lime,USD,1,50,1,-,1.0742
+JO_OR,Jordan,Jordan Orange,JOD,3,3,0,6.36,-
+JO_OR,Jordan,Jordan Orange,JOD,5,5,0,10.61,-
+JO_OR,Jordan,Jordan Orange,JOD,10,10,0,21.22,-
+JO_OR,Jordan,Jordan Orange,JOD,20,20,0,42.42,-
+JO_UN,Jordan,Jordan Umniah,JOD,1,35,1,-,0.4902
+JO_ZN,Jordan,Jordan Zain,JOD,5,5,0,10.96,-
+JO_ZN,Jordan,Jordan Zain,JOD,9,9,0,18.89,-
+JO_ZN,Jordan,Jordan Zain,JOD,12,12,0,25.22,-
+JO_ZN,Jordan,Jordan Zain,JOD,20,20,0,42.04,-
+JO_ZN,Jordan,Jordan Zain,JOD,36,36,0,75.67,-
+KE_OR,Kenya,Kenya Orange,EUR,3,3,0,3.17,-
+KE_OR,Kenya,Kenya Orange,EUR,7.5,7.5,0,7.92,-
+KE_OR,Kenya,Kenya Orange,EUR,15,15,0,15.83,-
+KE_OR,Kenya,Kenya Orange,EUR,30,30,0,31.67,-
+KE_OR,Kenya,Kenya Orange,KES,315,315,0,3.17,-
+KE_OR,Kenya,Kenya Orange,KES,787,787,0,7.92,-
+KE_OR,Kenya,Kenya Orange,KES,1575,1575,0,15.83,-
+KE_SC,Kenya,Kenya Safaricom,KES,100,100,0,1.1,-
+KE_SC,Kenya,Kenya Safaricom,KES,600,600,0,6.58,-
+KE_SC,Kenya,Kenya Safaricom,KES,900,900,0,9.88,-
+KE_SC,Kenya,Kenya Safaricom,KES,1200,1200,0,13.17,-
+KE_SC,Kenya,Kenya Safaricom,KES,1500,1500,0,16.46,-
+KG_BE,Kyrgyzstan,Kyrgyzstan Beeline,KGS,100,25000,10,-,65.9244
+KG_FN,Kyrgyzstan,Kyrgyzstan Fonex,KGS,100,60000,10,-,65.9244
+KG_KT,Kyrgyzstan,Kyrgyzstan Katel,KGS,100,5000,10,-,65.9244
+KG_MC,Kyrgyzstan,Kyrgyzstan MegaCom,KGS,100,60000,10,-,65.9244
+KG_NX,Kyrgyzstan,Kyrgyzstan Nexi,KGS,100,5000,10,-,65.9244
+KG_OO,Kyrgyzstan,Kyrgyzstan O!,KGS,100,10000,10,-,65.9244
+KG_SC,Kyrgyzstan,Kyrgyzstan Sapatcom,KGS,100,20000,10,-,65.9244
+LA_BL,Laos,Laos Beeline,LAK,5000,5000,0,0.64,-
+LA_BL,Laos,Laos Beeline,LAK,10000,10000,0,1.28,-
+LA_BL,Laos,Laos Beeline,LAK,20000,20000,0,2.58,-
+LA_BL,Laos,Laos Beeline,LAK,50000,50000,0,6.44,-
+LA_BL,Laos,Laos Beeline,LAK,100000,100000,0,12.84,-
+LA_BL,Laos,Laos Beeline,LAK,200000,200000,0,25.67,-
+LR_CC,Liberia,Liberia Cellcom,USD,5,20,1,-,1.0158
+LR_MT,Liberia,Liberia MTN,USD,1,100,1,-,0.9346
+LR_NR,Liberia,Liberia Novafone,USD,1,1,0,1.25,-
+LR_NR,Liberia,Liberia Novafone,USD,3,3,0,3.76,-
+LR_NR,Liberia,Liberia Novafone,USD,5,5,0,6.26,-
+LR_NR,Liberia,Liberia Novafone,USD,10,10,0,12.52,-
+LR_NR,Liberia,Liberia Novafone,USD,20,20,0,25.04,-
+LR_NR,Liberia,Liberia Novafone,USD,50,50,0,62.6,-
+MG_OR,Madagascar,Madagascar Orange,EUR,3,3,0,3.17,-
+MG_OR,Madagascar,Madagascar Orange,EUR,7.5,7.5,0,7.92,-
+MG_OR,Madagascar,Madagascar Orange,EUR,15,15,0,15.83,-
+MG_OR,Madagascar,Madagascar Orange,EUR,30,30,0,31.67,-
+CM,Malaysia,Malaysia Celcom Axiata,MYR,10,10,0,2.29,-
+CM,Malaysia,Malaysia Celcom Axiata,MYR,20,20,0,4.59,-
+CM,Malaysia,Malaysia Celcom Axiata,MYR,30,30,0,6.88,-
+CM,Malaysia,Malaysia Celcom Axiata,MYR,50,50,0,11.47,-
+CM,Malaysia,Malaysia Celcom Axiata,MYR,100,100,0,22.95,-
+DG,Malaysia,Malaysia Digi,MYR,10,10,0,2.35,-
+DG,Malaysia,Malaysia Digi,MYR,30,30,0,7.05,-
+DG,Malaysia,Malaysia Digi,MYR,50,50,0,11.75,-
+DG,Malaysia,Malaysia Digi,MYR,100,100,0,23.5,-
+MX,Malaysia,Malaysia Maxis,MYR,10,10,0,2.36,-
+MX,Malaysia,Malaysia Maxis,MYR,30,30,0,7.07,-
+MX,Malaysia,Malaysia Maxis,MYR,60,60,0,14.13,-
+MX,Malaysia,Malaysia Maxis,MYR,100,100,0,23.55,-
+MY_MT,Malaysia,Malaysia Merchantrade,MYR,10,10,0,2.28,-
+MY_MT,Malaysia,Malaysia Merchantrade,MYR,30,30,0,6.85,-
+MY_MT,Malaysia,Malaysia Merchantrade,MYR,50,50,0,11.41,-
+MY_TT,Malaysia,Malaysia Tunetalk,MYR,10,10,0,2.28,-
+MY_TT,Malaysia,Malaysia Tunetalk,MYR,30,30,0,6.85,-
+MY_TT,Malaysia,Malaysia Tunetalk,MYR,50,50,0,11.41,-
+MY_TT,Malaysia,Malaysia Tunetalk,MYR,100,100,0,22.83,-
+MY_UM,Malaysia,Malaysia UMobile,MYR,10,100,1,-,4.4038
+ML_OR,Mali,Mali Orange,EUR,3,3,0,3.17,-
+ML_OR,Mali,Mali Orange,EUR,7.5,7.5,0,7.92,-
+ML_OR,Mali,Mali Orange,EUR,15,15,0,15.83,-
+ML_OR,Mali,Mali Orange,EUR,30,30,0,31.67,-
+ML_OR,Mali,Mali Orange,XOF,1950,1950,0,3.17,-
+ML_OR,Mali,Mali Orange,XOF,4920,4920,0,7.92,-
+ML_OR,Mali,Mali Orange,XOF,9840,9840,0,15.83,-
+ML_OR,Mali,Mali Orange,XOF,19680,19680,0,31.67,-
+MQ_DG,Martinique,Martinique Digicel,USD,5,70,1,-,1.0684
+MX_IC,Mexico,Mexico Iusacell,USD,5,5,0,3.12,-
+MX_IC,Mexico,Mexico Iusacell,USD,10,10,0,6.24,-
+MX_IC,Mexico,Mexico Iusacell,USD,15,15,0,9.36,-
+MX_IC,Mexico,Mexico Iusacell,USD,20,20,0,12.48,-
+MX_IC,Mexico,Mexico Iusacell,USD,30,30,0,18.72,-
+MX_IC,Mexico,Mexico Iusacell,USD,50,50,0,31.2,-
+MX_ICM,Mexico,Mexico Iusacell MXN,MXN,50,50,1,3.12,-
+MX_ICM,Mexico,Mexico Iusacell MXN,MXN,100,100,1,6.24,-
+MX_ICM,Mexico,Mexico Iusacell MXN,MXN,150,150,1,9.36,-
+MX_ICM,Mexico,Mexico Iusacell MXN,MXN,200,200,1,12.48,-
+MX_ICM,Mexico,Mexico Iusacell MXN,MXN,300,300,1,18.72,-
+MX_ICM,Mexico,Mexico Iusacell MXN,MXN,500,500,1,31.2,-
+MX_MV,Mexico,Mexico Movistar,USD,2,70,0.01,-,1.0625
+MX_MVM,Mexico,Mexico Movistar MXN,MXN,20,20,1,1.25,-
+MX_MVM,Mexico,Mexico Movistar MXN,MXN,30,30,1,1.87,-
+MX_MVM,Mexico,Mexico Movistar MXN,MXN,60,60,1,3.74,-
+MX_MVM,Mexico,Mexico Movistar MXN,MXN,100,100,1,6.24,-
+MX_MVM,Mexico,Mexico Movistar MXN,MXN,120,120,1,7.49,-
+MX_MVM,Mexico,Mexico Movistar MXN,MXN,150,150,1,9.36,-
+MX_MVM,Mexico,Mexico Movistar MXN,MXN,200,200,1,12.48,-
+MX_MVM,Mexico,Mexico Movistar MXN,MXN,300,300,1,18.72,-
+MX_MVM,Mexico,Mexico Movistar MXN,MXN,500,500,1,31.2,-
+MX_NX,Mexico,Mexico Nextel,USD,5,5,0,3.12,-
+MX_NX,Mexico,Mexico Nextel,USD,10,10,0,6.24,-
+MX_NX,Mexico,Mexico Nextel,USD,20,20,0,12.48,-
+MX_NX,Mexico,Mexico Nextel,USD,50,50,0,31.2,-
+MX_NXM,Mexico,Mexico Nextel MXN,MXN,30,30,0,1.87,-
+MX_NXM,Mexico,Mexico Nextel MXN,MXN,50,50,0,3.12,-
+MX_NXM,Mexico,Mexico Nextel MXN,MXN,100,100,0,6.24,-
+MX_NXM,Mexico,Mexico Nextel MXN,MXN,150,150,0,9.36,-
+MX_NXM,Mexico,Mexico Nextel MXN,MXN,200,200,0,12.48,-
+MX_NXM,Mexico,Mexico Nextel MXN,MXN,300,300,0,18.72,-
+MX_NXM,Mexico,Mexico Nextel MXN,MXN,500,500,0,31.2,-
+MX_TC,Mexico,Mexico Telcel,USD,5,5,0,4.71,-
+MX_TC,Mexico,Mexico Telcel,USD,5,5,0,4.71,-
+MX_TC,Mexico,Mexico Telcel,USD,10,10,0,9.41,-
+MX_TC,Mexico,Mexico Telcel,USD,15,15,0,14.12,-
+MX_TC,Mexico,Mexico Telcel,USD,20,20,0,18.82,-
+MX_TM,Mexico,Mexico Telcel,MXN,20,20,0,1.14,-
+MX_TM,Mexico,Mexico Telcel,MXN,30,30,0,1.72,-
+MX_TM,Mexico,Mexico Telcel,MXN,50,50,0,2.86,-
+MX_TC,Mexico,Mexico Telcel,USD,50,50,0,47.06,-
+MX_TM,Mexico,Mexico Telcel,MXN,100,100,0,5.72,-
+MX_TM,Mexico,Mexico Telcel,MXN,150,150,0,8.58,-
+MX_TM,Mexico,Mexico Telcel,MXN,200,200,0,11.44,-
+MX_TM,Mexico,Mexico Telcel,MXN,300,300,0,17.16,-
+MX_TM,Mexico,Mexico Telcel,MXN,500,500,0,28.6,-
+MX_UF,Mexico,Mexico Unefon,USD,5,5,0,3.12,-
+MX_UF,Mexico,Mexico Unefon,USD,10,10,0,6.24,-
+MX_UF,Mexico,Mexico Unefon,USD,15,15,0,9.36,-
+MX_UF,Mexico,Mexico Unefon,USD,20,20,0,12.48,-
+MX_UF,Mexico,Mexico Unefon,USD,30,30,0,18.72,-
+MX_UFM,Mexico,Mexico Unefone MXN,MXN,50,50,0,3.12,-
+MX_UFM,Mexico,Mexico Unefone MXN,MXN,100,100,0,6.24,-
+MX_UFM,Mexico,Mexico Unefone MXN,MXN,150,150,0,9.36,-
+MX_UFM,Mexico,Mexico Unefone MXN,MXN,200,200,0,12.48,-
+MX_UFM,Mexico,Mexico Unefone MXN,MXN,300,300,0,18.72,-
+MX_UFM,Mexico,Mexico Unefone MXN,MXN,500,500,0,31.2,-
+MD_OR,"Moldova, Republic of",Moldova Orange,MDL,5,5000,1,-,18.9869
+MD_UN,"Moldova, Republic of",Moldova Unite,MDL,5,10000,1,-,18.5146
+MD_MC,"Moldova, Republic of","Moldova	Moldcell",MDL,5,15000,1,-,19.3824
+MS_LM,Montserrat,Montserrat Lime,USD,5,100,1,-,1.0684
+MA_BA,Morocco,Morocco BAYN CDMA,MAD,5,5,0,0.53,-
+MA_BA,Morocco,Morocco BAYN CDMA,MAD,10,10,0,1.07,-
+MA_BA,Morocco,Morocco BAYN CDMA,MAD,20,20,0,2.14,-
+MA_BA,Morocco,Morocco BAYN CDMA,MAD,30,30,0,3.21,-
+MA_BA,Morocco,Morocco BAYN CDMA,MAD,50,50,0,5.34,-
+MA_BA,Morocco,Morocco BAYN CDMA,MAD,100,100,0,10.68,-
+MA_BA,Morocco,Morocco BAYN CDMA,MAD,200,200,0,21.37,-
+MA_BG,Morocco,Morocco BAYN GSM,MAD,5,5,0,0.53,-
+MA_BG,Morocco,Morocco BAYN GSM,MAD,10,10,0,1.07,-
+MA_BG,Morocco,Morocco BAYN GSM,MAD,20,20,0,2.14,-
+MA_BG,Morocco,Morocco BAYN GSM,MAD,30,30,0,3.21,-
+MA_BG,Morocco,Morocco BAYN GSM,MAD,50,50,0,5.34,-
+MA_BG,Morocco,Morocco BAYN GSM,MAD,100,100,0,10.68,-
+MA_BG,Morocco,Morocco BAYN GSM,MAD,200,200,0,21.37,-
+MA_IW,Morocco,Morocco INWI,MAD,5,5,0,0.53,-
+MA_IW,Morocco,Morocco INWI,MAD,10,10,0,1.07,-
+MA_IW,Morocco,Morocco INWI,MAD,20,20,0,2.14,-
+MA_IW,Morocco,Morocco INWI,MAD,30,30,0,3.21,-
+MA_IW,Morocco,Morocco INWI,MAD,50,50,0,5.34,-
+MA_IW,Morocco,Morocco INWI,MAD,100,100,0,10.68,-
+MA_IW,Morocco,Morocco INWI,MAD,200,200,0,21.37,-
+MA_MT,Morocco,Morocco Maroc Telecom,MAD,5,5,0,0.53,-
+MA_MT,Morocco,Morocco Maroc Telecom,MAD,10,10,0,1.07,-
+MA_MT,Morocco,Morocco Maroc Telecom,MAD,20,20,0,2.14,-
+MA_MT,Morocco,Morocco Maroc Telecom,MAD,30,30,0,3.17,-
+MA_MT,Morocco,Morocco Maroc Telecom,MAD,50,50,0,5.34,-
+MA_MT,Morocco,Morocco Maroc Telecom,MAD,75,75,0,7.92,-
+MA_MT,Morocco,Morocco Maroc Telecom,MAD,150,150,0,15.83,-
+MA_MT,Morocco,Morocco Maroc Telecom,MAD,200,200,0,21.37,-
+MA_MD,Morocco,Morocco Meditel,MAD,5,5,0,0.53,-
+MA_MD,Morocco,Morocco Meditel,MAD,10,10,0,1.07,-
+MA_MD,Morocco,Morocco Meditel,MAD,20,20,0,2.14,-
+MA_MD,Morocco,Morocco Meditel,MAD,30,30,0,3.21,-
+MA_MD,Morocco,Morocco Meditel,MAD,50,50,0,5.34,-
+MA_MD,Morocco,Morocco Meditel,MAD,75,75,0,8.01,-
+MA_MD,Morocco,Morocco Meditel,MAD,100,100,0,10.68,-
+MA_MD,Morocco,Morocco Meditel,MAD,150,150,0,15.83,-
+MA_MD,Morocco,Morocco Meditel,MAD,200,200,0,21.37,-
+MZ_VC,Mozambique,Mozambique - Vodacom,USD,0.7,0.7,0,0.75,-
+MZ_VC,Mozambique,Mozambique - Vodacom,USD,1.8,1.8,0,1.93,-
+MZ_VC,Mozambique,Mozambique - Vodacom,USD,3.6,3.6,0,3.85,-
+MZ_VC,Mozambique,Mozambique - Vodacom,USD,7.2,7.2,0,7.7,-
+MZ_VC,Mozambique,Mozambique - Vodacom,USD,18,18,0,19.26,-
+MZ_MC,Mozambique,Mozambique Mcel,MZN,20,20,0,0.36,-
+MZ_MC,Mozambique,Mozambique Mcel,MZN,50,50,0,0.91,-
+MZ_MC,Mozambique,Mozambique Mcel,MZN,100,100,0,1.71,-
+MZ_MC,Mozambique,Mozambique Mcel,MZN,300,300,0,5.14,-
+MZ_MC,Mozambique,Mozambique Mcel,MZN,600,600,0,10.17,-
+MZ_MC,Mozambique,Mozambique Mcel,MZN,2000,2000,0,33.85,-
+NP_DH,Nepal,Nepal Dish Home,NPR,100,5000,100,-,104.6174
+NP_NC,Nepal,Nepal Ncell,NPR,10,5000,1,-,104.1308
+NP_TG,Nepal,Nepal Telecom GSM,NPR,10,10,0,0.1,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,20,20,0,0.2,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,30,30,0,0.29,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,50,50,0,0.48,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,100,100,0,0.96,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,150,150,0,1.43,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,200,200,0,1.91,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,300,300,0,2.88,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,500,500,0,4.8,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,1000,1000,0,9.61,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,1500,1500,0,14.3,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,2000,2000,0,19.07,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,2500,2500,0,23.84,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,3000,3000,0,28.6,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,4000,4000,0,38.14,-
+NP_TG,Nepal,Nepal Telecom GSM,NPR,5000,5000,0,47.67,-
+NI_CR,Nicaragua,Nicaragua Claro,USD,2,100,1,-,1.1312
+NI_MV,Nicaragua,Nicaragua Movistar,USD,3,100,1,-,1.0625
+NE_OR,Niger,Niger Orange,EUR,3,3,0,3.17,-
+NE_OR,Niger,Niger Orange,EUR,7.5,7.5,0,7.92,-
+NE_OR,Niger,Niger Orange,EUR,15,15,0,15.83,-
+NE_OR,Niger,Niger Orange,EUR,30,30,0,31.67,-
+NE_OR,Niger,Niger Orange,XOF,1950,1950,0,3.17,-
+NE_OR,Niger,Niger Orange,XOF,4920,4920,0,7.92,-
+NE_OR,Niger,Niger Orange,XOF,9840,9840,0,15.83,-
+NE_OR,Niger,Niger Orange,XOF,19680,19680,0,31.67,-
+NG_AT,Nigeria,Nigeria Airtel,NGN,50,50000,10,-,301.9333
+NG_ET,Nigeria,Nigeria Etisalat,NGN,50,50000,10,-,306.0135
+NG_GM,Nigeria,Nigeria Glo Mobile,NGN,50,50000,10,-,307.6772
+NG_MT,Nigeria,Nigeria MTN,NGN,50,50000,10,-,297.9605
+ML,Pakistan,Pakistan Mobilink,PKR,50,5000,1,-,99.8586
+TP,Pakistan,Pakistan Telenor,PKR,50,5000,1,-,100.8881
+UF,Pakistan,Pakistan Ufone,PKR,50,5000,1,-,99.8586
+WP,Pakistan,Pakistan Warid,PKR,50,5000,1,-,100.9951
+ZP,Pakistan,Pakistan Zong,PKR,50,5000,1,-,100.6805
+PS_JW,Palestinian,Palestine Jawwal,ILS,10,100,10,-,3.7725
+PA_DC,Panama,Panama Digicel,USD,7,7,0,6.3,-
+PA_DC,Panama,Panama Digicel,USD,10,10,0,10.4,-
+PA_DC,Panama,Panama Digicel,USD,14,14,0,12.59,-
+PA_DC,Panama,Panama Digicel,USD,20,20,0,20.8,-
+PA_MV,Panama,Panama Movistar,USD,2,70,0.01,-,1.0625
+PY_PS,Paraguay,Paraguay Personal,USD,1,35,1,-,1.0684
+PY_TG,Paraguay,Paraguay Tigo,USD,1,35,1,-,1.1052
+PE_MV,Peru,Peru Movistar,USD,2,70,0.01,-,1.0625
+PH_MD,Philippines,Philippines Generika MedPadala,PHP,300,300,0,6.45,-
+PH_MD,Philippines,Philippines Generika MedPadala,PHP,500,500,0,10.75,-
+PH_MD,Philippines,Philippines Generika MedPadala,PHP,1000,1000,0,21.5,-
+GL,Philippines,Philippines Globe Telecom,PHP,15,15,0,0.31,-
+GL,Philippines,Philippines Globe Telecom,PHP,20,20,0,0.42,-
+GL,Philippines,Philippines Globe Telecom,PHP,25,25,0,0.5,-
+GL,Philippines,Philippines Globe Telecom,PHP,50,50,0,0.98,-
+GL,Philippines,Philippines Globe Telecom,PHP,100,100,0,1.96,-
+GL,Philippines,Philippines Globe Telecom,PHP,150,150,0,2.94,-
+GL,Philippines,Philippines Globe Telecom,PHP,200,200,0,3.91,-
+GL,Philippines,Philippines Globe Telecom,PHP,300,300,0,5.87,-
+GL,Philippines,Philippines Globe Telecom,PHP,500,500,0,9.78,-
+GL,Philippines,Philippines Globe Telecom,PHP,1000,1000,0,19.57,-
+PH_SD,Philippines,Philippines Smart Big Byte Data,PHP,50,50,0,0.98,-
+PH_SD,Philippines,Philippines Smart Big Byte Data,PHP,70,70,0,1.38,-
+SM,Philippines,Philippines Smart Communications,PHP,15,15,0,0.3,-
+SM,Philippines,Philippines Smart Communications,PHP,30,30,0,0.6,-
+SM,Philippines,Philippines Smart Communications,PHP,50,50,0,0.98,-
+SM,Philippines,Philippines Smart Communications,PHP,60,60,0,1.17,-
+SM,Philippines,Philippines Smart Communications,PHP,100,100,0,1.95,-
+SM,Philippines,Philippines Smart Communications,PHP,115,115,0,2.25,-
+SM,Philippines,Philippines Smart Communications,PHP,200,200,0,3.91,-
+SM,Philippines,Philippines Smart Communications,PHP,300,300,0,5.86,-
+SM,Philippines,Philippines Smart Communications,PHP,500,500,0,9.76,-
+SM,Philippines,Philippines Smart Communications,PHP,1000,1000,0,19.53,-
+SN,Philippines,Philippines Sun Cellular,PHP,10,10,0,0.2,-
+SN,Philippines,Philippines Sun Cellular,PHP,15,15,0,0.3,-
+SN,Philippines,Philippines Sun Cellular,PHP,20,20,0,0.4,-
+SN,Philippines,Philippines Sun Cellular,PHP,30,30,0,0.6,-
+SN,Philippines,Philippines Sun Cellular,PHP,50,50,0,0.98,-
+SN,Philippines,Philippines Sun Cellular,PHP,100,100,0,1.96,-
+SN,Philippines,Philippines Sun Cellular,PHP,150,150,0,2.94,-
+SN,Philippines,Philippines Sun Cellular,PHP,300,300,0,5.88,-
+SN,Philippines,Philippines Sun Cellular,PHP,500,500,0,9.81,-
+PL_HY,Poland,Poland Heyah,PLN,5,500,1,-,3.8909
+PL_LC,Poland,Poland Lyca Mobile,PLN,5,5,0,1.29,-
+PL_LC,Poland,Poland Lyca Mobile,PLN,10,10,0,2.57,-
+PL_LC,Poland,Poland Lyca Mobile,PLN,20,20,0,5.14,-
+PL_LC,Poland,Poland Lyca Mobile,PLN,30,30,0,7.71,-
+PL_LC,Poland,Poland Lyca Mobile,PLN,50,50,0,12.85,-
+PL_LC,Poland,Poland Lyca Mobile,PLN,100,100,0,25.7,-
+PL_OR,Poland,Poland Orange,PLN,5,5,0,1.29,-
+PL_OR,Poland,Poland Orange,PLN,10,10,0,2.57,-
+PL_OR,Poland,Poland Orange,PLN,30,30,0,7.71,-
+PL_OR,Poland,Poland Orange,PLN,40,40,0,10.28,-
+PL_OR,Poland,Poland Orange,PLN,50,50,0,12.85,-
+PL_OR,Poland,Poland Orange,PLN,100,100,0,25.7,-
+PL_OR,Poland,Poland Orange,PLN,200,200,0,51.4,-
+PL_PL,Poland,Poland Play,PLN,5,300,1,-,3.871
+PL_PS,Poland,Poland Plus,PLN,5,150,1,-,3.8909
+PL_TM,Poland,Poland T-Mobile,PLN,5,500,1,-,3.8909
+PL_VM,Poland,Poland Virgin Mobile,PLN,5,5,0,1.29,-
+PL_VM,Poland,Poland Virgin Mobile,PLN,10,10,0,2.57,-
+PL_VM,Poland,Poland Virgin Mobile,PLN,30,30,0,7.71,-
+PL_VM,Poland,Poland Virgin Mobile,PLN,50,50,0,12.85,-
+PL_VM,Poland,Poland Virgin Mobile,PLN,100,100,0,25.7,-
+PL_VM,Poland,Poland Virgin Mobile,PLN,150,150,0,38.55,-
+RO_OR,Romania,Romania Orange,EUR,10,10,0,13.84,-
+RO_OR,Romania,Romania Orange,EUR,15,15,0,20.75,-
+RO_OR,Romania,Romania Orange,EUR,20,20,0,27.67,-
+RO_VF,Romania,Romania Vodafone,EUR,5,5,0,6.61,-
+RO_VF,Romania,Romania Vodafone,EUR,10,10,0,13.21,-
+RO_VF,Romania,Romania Vodafone,EUR,15,15,0,21.33,-
+RO_VF,Romania,Romania Vodafone,EUR,20,20,0,26.43,-
+RO_VF,Romania,Romania Vodafone,EUR,30,30,0,39.65,-
+RU_BE,Russian Federation,Russia Beeline,RUB,10,15000,0.01,-,55.4392
+RU_MF,Russian Federation,Russia Megafon,RUB,20,15000,0.01,-,55.4392
+RU_MT,Russian Federation,Russia MTS,RUB,20,15000,0.01,-,55.4392
+RU_T2,Russian Federation,Russia Tele2,RUB,20,15000,0.01,-,55.4392
+RW_MT,Rwanda,Rwanda MTN,RWF,500,40000,100,-,607.4596
+KN_LM,Saint Kitts and Nevis,Saint Kitts and Nevis Lime,USD,2,100,1,-,1.0927
+KN_DG,Saint Kitts and Nevis,St Kitts & Nevis Digicel,USD,2,70,1,-,0.419
+LC_DG,Saint Lucia,St Lucia Digicel,USD,2,70,1,-,0.441
+LC_LM,Saint Lucia,St Lucia Lime,USD,2,100,1,-,0.4157
+VC_LM,Saint Vincent & the Grenadines,Saint Vincent and the Grenadines Lime,USD,2,100,1,-,0.4157
+VC_DG,Saint Vincent & the Grenadines,St Vincent & Grenadines Digicel,USD,2,70,1,-,0.419
+SN_OR,Senegal,Senegal Orange,EUR,7.5,7.5,0,7.92,-
+SN_OR,Senegal,Senegal Orange,EUR,15,15,0,15.83,-
+SN_OR,Senegal,Senegal Orange,EUR,30,30,0,31.67,-
+SN_OR,Senegal,Senegal Orange,XOF,4920,4920,0,7.92,-
+SN_OR,Senegal,Senegal Orange,XOF,9840,9840,0,15.83,-
+SN_OR,Senegal,Senegal Orange,XOF,19680,19680,0,31.67,-
+RS_TP,Serbia and Montenegro,Serbia Telenor,USD,5,50,1,-,0.9346
+RS_TP,Serbia and Montenegro,Serbia Telenor,USD,5,5,0,5.35,-
+RS_TP,Serbia and Montenegro,Serbia Telenor,USD,10,10,0,10.7,-
+RS_TP,Serbia and Montenegro,Serbia Telenor,USD,20,20,0,21.4,-
+RS_TP,Serbia and Montenegro,Serbia Telenor,USD,30,30,0,32.1,-
+RS_TP,Serbia and Montenegro,Serbia Telenor,USD,40,40,0,42.8,-
+RS_TP,Serbia and Montenegro,Serbia Telenor,USD,50,50,0,53.5,-
+SL_AC,Sierra Leone,Sierra Leone Africell,SLL,5000,5000,0,0.65,-
+SL_AC,Sierra Leone,Sierra Leone Africell,SLL,10000,10000,0,1.3,-
+SL_AC,Sierra Leone,Sierra Leone Africell,SLL,30000,30000,0,3.91,-
+SL_AC,Sierra Leone,Sierra Leone Africell,SLL,50000,50000,0,6.51,-
+SL_AC,Sierra Leone,Sierra Leone Africell,SLL,100000,100000,0,13.03,-
+SL_AC,Sierra Leone,Sierra Leone Africell,SLL,200000,200000,0,26.05,-
+SL_AC,Sierra Leone,Sierra Leone Africell,SLL,300000,300000,0,39.08,-
+SG_M1,Singapore,Singapore M1,SGD,2,2,0,1.4,-
+SG_M1,Singapore,Singapore M1,SGD,5,5,0,3.5,-
+SG_M1,Singapore,Singapore M1,SGD,10,10,0,7,-
+SG_M1,Singapore,Singapore M1,SGD,18,18,0,12.6,-
+SG_M1,Singapore,Singapore M1,SGD,25,25,0,17.5,-
+SG_M1,Singapore,Singapore M1,SGD,50,50,0,35,-
+SG_ST,Singapore,Singapore SingTel,SGD,5,5,0,3.42,-
+SG_ST,Singapore,Singapore SingTel,SGD,10,10,0,6.85,-
+SG_ST,Singapore,Singapore SingTel,SGD,20,20,0,13.7,-
+SG_ST,Singapore,Singapore SingTel,SGD,50,50,0,34.25,-
+SG_SH,Singapore,Singapore Starhub,SGD,2,2,0,1.38,-
+SG_SH,Singapore,Singapore Starhub,SGD,5,5,0,3.46,-
+SG_SH,Singapore,Singapore Starhub,SGD,10,10,0,6.92,-
+SG_SH,Singapore,Singapore Starhub,SGD,18,18,0,12.46,-
+SG_SH,Singapore,Singapore Starhub,SGD,28,28,0,19.39,-
+SG_SH,Singapore,Singapore Starhub,SGD,50,50,0,34.62,-
+ZA_8T,South Africa,South Africa 8ta,ZAR,5,1000,1,-,13.464
+ZA_CC,South Africa,South Africa Cell C,ZAR,5,1000,1,-,13.1125
+ZA_MT,South Africa,South Africa MTN,ZAR,5,1000,1,-,13.0444
+ZA_VC,South Africa,South Africa Vodacom,ZAR,5,1000,1,-,13.0444
+ES_LB,Spain,Spain Lebara,EUR,5,5,0,7.69,-
+ES_LB,Spain,Spain Lebara,EUR,10,10,0,15.37,-
+ES_LB,Spain,Spain Lebara,EUR,15,15,0,23.07,-
+ES_LB,Spain,Spain Lebara,EUR,20,20,0,30.75,-
+ES_LB,Spain,Spain Lebara,EUR,30,30,0,46.12,-
+ES_LY,Spain,Spain Llamaya,EUR,5,5,0,7.69,-
+ES_LY,Spain,Spain Llamaya,EUR,10,10,0,15.37,-
+ES_LY,Spain,Spain Llamaya,EUR,15,15,0,23.07,-
+ES_LY,Spain,Spain Llamaya,EUR,20,20,0,30.75,-
+ES_LY,Spain,Spain Llamaya,EUR,30,30,0,46.12,-
+ES_LC,Spain,Spain Lyca Mobile,EUR,5,5,0,7.69,-
+ES_LC,Spain,Spain Lyca Mobile,EUR,10,10,0,15.37,-
+ES_LC,Spain,Spain Lyca Mobile,EUR,15,15,0,23.07,-
+ES_LC,Spain,Spain Lyca Mobile,EUR,20,20,0,30.75,-
+ES_LC,Spain,Spain Lyca Mobile,EUR,30,30,0,46.12,-
+ES_OR,Spain,Spain Orange,EUR,5,5,0,7.77,-
+ES_OR,Spain,Spain Orange,EUR,10,10,0,15.54,-
+ES_OR,Spain,Spain Orange,EUR,15,15,0,23.31,-
+ES_OR,Spain,Spain Orange,EUR,20,20,0,31.08,-
+ES_OR,Spain,Spain Orange,EUR,30,30,0,46.6,-
+ES_VF,Spain,Spain Vodafone,EUR,5,5,0,7.77,-
+ES_VF,Spain,Spain Vodafone,EUR,10,10,0,15.54,-
+ES_VF,Spain,Spain Vodafone,EUR,15,15,0,23.31,-
+ES_VF,Spain,Spain Vodafone,EUR,20,20,0,31.08,-
+ES_VF,Spain,Spain Vodafone,EUR,30,30,0,46.6,-
+ES_YG,Spain,Spain Yoigo,EUR,5,5,0,7.69,-
+ES_YG,Spain,Spain Yoigo,EUR,10,10,0,15.37,-
+ES_YG,Spain,Spain Yoigo,EUR,15,15,0,23.07,-
+ES_YG,Spain,Spain Yoigo,EUR,20,20,0,30.75,-
+ES_YG,Spain,Spain Yoigo,EUR,30,30,0,46.12,-
+LK_AT,Sri Lanka,Sri Lanka Airtel,LKR,100,3000,10,-,149.1892
+LK_DL,Sri Lanka,Sri Lanka Dialog Axiata,LKR,100,3000,10,-,149.1892
+LK_ET,Sri Lanka,Sri Lanka Etisalat,LKR,100,3000,10,-,145.3241
+LK_HC,Sri Lanka,Sri Lanka Hutchison,LKR,100,3000,10,-,128.743
+LK_MO,Sri Lanka,Sri Lanka Mobitel,LKR,100,3000,10,-,147.6187
+SD_ZN,Sudan,Sudan Zain,SDG,5,5,0,0.8,-
+SD_ZN,Sudan,Sudan Zain,SDG,10,10,0,1.6,-
+SD_ZN,Sudan,Sudan Zain,SDG,20,20,0,3.21,-
+SD_ZN,Sudan,Sudan Zain,SDG,50,50,0,8.02,-
+SD_ZN,Sudan,Sudan Zain,SDG,100,100,0,16.04,-
+SZ_MT,Swaziland,Swaziland MTN,SZL,5,500,1,-,10.2804
+TJ_BM,Tajikistan,Tajikistan Babilon Mobile,TJS,1,1000,1,-,7.6385
+TJ_BE,Tajikistan,Tajikistan Beeline,TJS,1,1000,1,-,7.6156
+TJ_MP,Tajikistan,Tajikistan Megafon,TJS,1,1000,1,-,7.6156
+TJ_TC,Tajikistan,Tajikistan Tcell,TJS,1,1000,1,-,7.5927
+TJ_TM,Tajikistan,Tajikistan TK Mobile,TJS,1,1000,1,-,7.6462
+TZ_AT,"Tanzania, United Republic of",Tanzania Airtel,TZS,500,10000,100,-,2168.2567
+TZ_AT,"Tanzania, United Republic of",Tanzania Airtel,TZS,10100,50000,100,-,2168.2567
+TZ_SM,"Tanzania, United Republic of",Tanzania Smart,TZS,500,10000,100,-,2168.2567
+TZ_SM,"Tanzania, United Republic of",Tanzania Smart,TZS,10100,50000,100,-,2168.2567
+TZ_TG,"Tanzania, United Republic of",Tanzania Tigo,TZS,500,10000,100,-,2168.2567
+TZ_TG,"Tanzania, United Republic of",Tanzania Tigo,TZS,10100,50000,100,-,2168.2567
+TZ_VC,"Tanzania, United Republic of",Tanzania Vodacom,TZS,500,10000,100,-,2168.2567
+TZ_VC,"Tanzania, United Republic of",Tanzania Vodacom,TZS,10100,50000,100,-,2168.2567
+TZ_ZT,"Tanzania, United Republic of",Tanzania Zantel,TZS,500,10000,100,-,2168.2567
+TZ_ZT,"Tanzania, United Republic of",Tanzania Zantel,TZS,10100,50000,100,-,2168.2567
+AIS,Thailand,Advanced Info Service,THB,50,50,0,1.47,-
+AIS,Thailand,Advanced Info Service,THB,100,100,0,2.95,-
+AIS,Thailand,Advanced Info Service,THB,200,200,0,5.9,-
+AIS,Thailand,Advanced Info Service,THB,250,250,0,7.37,-
+AIS,Thailand,Advanced Info Service,THB,300,300,0,8.84,-
+AIS,Thailand,Advanced Info Service,THB,400,400,0,11.79,-
+AIS,Thailand,Advanced Info Service,THB,500,500,0,14.74,-
+AIS,Thailand,Advanced Info Service,THB,800,800,0,23.58,-
+AIS,Thailand,Advanced Info Service,THB,1000,1000,0,29.48,-
+TH_DT,Thailand,Thailand Dtac,THB,50,50,0,1.52,-
+TH_DT,Thailand,Thailand Dtac,THB,100,100,0,3.04,-
+TH_DT,Thailand,Thailand Dtac,THB,200,200,0,6.08,-
+TH_DT,Thailand,Thailand Dtac,THB,300,300,0,9.12,-
+TH_DT,Thailand,Thailand Dtac,THB,400,400,0,12.16,-
+TH_DT,Thailand,Thailand Dtac,THB,500,500,0,15.19,-
+TH_DT,Thailand,Thailand Dtac,THB,800,800,0,24.31,-
+TH_DT,Thailand,Thailand Dtac,THB,1000,1000,0,30.39,-
+TH_TM,Thailand,Thailand True Move,THB,50,50,0,1.52,-
+TH_TM,Thailand,Thailand True Move,THB,100,100,0,3.04,-
+TH_TM,Thailand,Thailand True Move,THB,200,200,0,6.08,-
+TH_TM,Thailand,Thailand True Move,THB,250,250,0,7.6,-
+TH_TM,Thailand,Thailand True Move,THB,300,300,0,9.12,-
+TH_TM,Thailand,Thailand True Move,THB,400,400,0,12.16,-
+TH_TM,Thailand,Thailand True Move,THB,500,500,0,15.19,-
+TH_TM,Thailand,Thailand True Move,THB,800,800,0,24.31,-
+TH_TM,Thailand,Thailand True Move,THB,1000,1000,0,30.39,-
+TT_BM,Trinidad and Tobago,Trinidad and Tobago bMobile,USD,5,75,1,-,1.0804
+TT_DC,Trinidad and Tobago,Trinidad and Tobago Digicel,USD,2,75,1,-,1.1246
+TN_OR,Tunisia,Tunisia Orange,EUR,3,3,0,3.17,-
+TN_OR,Tunisia,Tunisia Orange,TND,7,7,0,3.17,-
+TN_OR,Tunisia,Tunisia Orange,EUR,7.5,7.5,0,7.92,-
+TN_OR,Tunisia,Tunisia Orange,EUR,15,15,0,15.83,-
+TN_OR,Tunisia,Tunisia Orange,TND,17.5,17.5,0,7.92,-
+TN_OR,Tunisia,Tunisia Orange,EUR,30,30,0,31.67,-
+TN_OR,Tunisia,Tunisia Orange,TND,35,35,0,15.83,-
+TR_AV,Turkey,Turkey Avea,TRY,20,20,0,5.48,-
+TR_AV,Turkey,Turkey Avea,TRY,25,25,0,6.85,-
+TR_AV,Turkey,Turkey Avea,TRY,30,30,0,8.22,-
+TR_AV,Turkey,Turkey Avea,TRY,50,50,0,13.7,-
+TR_TC,Turkey,Turkey Turkcell,TRY,15,15,0,4.17,-
+TR_TC,Turkey,Turkey Turkcell,TRY,20,20,0,5.56,-
+TR_TC,Turkey,Turkey Turkcell,TRY,25,25,0,6.96,-
+TR_TC,Turkey,Turkey Turkcell,TRY,30,30,0,8.35,-
+TR_TC,Turkey,Turkey Turkcell,TRY,50,50,0,13.91,-
+TR_VF,Turkey,Turkey Vodafone,TRY,15,15,0,4.15,-
+TR_VF,Turkey,Turkey Vodafone,TRY,20,20,0,5.54,-
+TR_VF,Turkey,Turkey Vodafone,TRY,25,25,0,6.92,-
+TR_VF,Turkey,Turkey Vodafone,TRY,30,30,0,8.3,-
+TR_VF,Turkey,Turkey Vodafone,TRY,50,50,0,13.84,-
+TC_DG,Turks and Caicos Islands,Turks & Caicos Digicel,USD,2,75,1,-,1.0684
+TC_LM,Turks and Caicos Islands,Turks & Caicos Lime,USD,5,100,1,-,1.0684
+UG_AT,Uganda,Uganda Airtel,UGX,100,50000,100,-,3527.4613
+UG_MT,Uganda,Uganda MTN,UGX,100,50000,100,-,3490.6451
+UG_OR,Uganda,Uganda Orange,UGX,100,50000,100,-,3642.4565
+UG_SM,Uganda,Uganda Smart,UGX,100,50000,100,-,3527.4613
+UG_TC,Uganda,Uganda Telecom,UGX,100,50000,100,-,3527.4613
+UG_VF,Uganda,Uganda Vodafone,UGX,100,50000,100,-,3527.4613
+UA_KS,Ukraine,Ukraine Kyvistar,UAH,5,5000,1,-,24.8352
+UA_LF,Ukraine,Ukraine Life,UAH,5,5000,1,-,24.8352
+UA_MT,Ukraine,Ukraine MTS,UAH,5,5000,1,-,24.8352
+UA_UT,Ukraine,Ukraine Utel,UAH,5,5000,1,-,25.3319
+UK_HC,United Kingdom,United Kingdom Hutchison Three,GBP,10,10,0,13.38,-
+UK_HC,United Kingdom,United Kingdom Hutchison Three,GBP,15,15,0,20.06,-
+UK_HC,United Kingdom,United Kingdom Hutchison Three,GBP,20,20,0,26.75,-
+UK_HC,United Kingdom,United Kingdom Hutchison Three,GBP,25,25,0,33.44,-
+UK_HC,United Kingdom,United Kingdom Hutchison Three,GBP,30,30,0,40.13,-
+UK_HC,United Kingdom,United Kingdom Hutchison Three,GBP,50,50,0,66.88,-
+UK_LB,United Kingdom,United Kingdom Lebara,GBP,5,5,0,6.69,-
+UK_LB,United Kingdom,United Kingdom Lebara,GBP,10,10,0,13.38,-
+UK_LB,United Kingdom,United Kingdom Lebara,GBP,20,20,0,26.75,-
+UK_LB,United Kingdom,United Kingdom Lebara,GBP,50,50,0,66.88,-
+UK_LM,United Kingdom,United Kingdom Lyca Mobile,GBP,5,5,0,6.69,-
+UK_LM,United Kingdom,United Kingdom Lyca Mobile,GBP,10,10,0,13.38,-
+UK_LM,United Kingdom,United Kingdom Lyca Mobile,GBP,20,20,0,26.75,-
+UK_O2,United Kingdom,United Kingdom O2,GBP,10,10,0,13.38,-
+UK_O2,United Kingdom,United Kingdom O2,GBP,15,15,0,20.06,-
+UK_O2,United Kingdom,United Kingdom O2,GBP,20,20,0,26.75,-
+UK_O2,United Kingdom,United Kingdom O2,GBP,25,25,0,33.44,-
+UK_O2,United Kingdom,United Kingdom O2,GBP,30,30,0,40.13,-
+UK_O2,United Kingdom,United Kingdom O2,GBP,50,50,0,66.88,-
+UK_OR,United Kingdom,United Kingdom Orange,GBP,5,5,0,6.69,-
+UK_OR,United Kingdom,United Kingdom Orange,GBP,10,10,0,13.38,-
+UK_OR,United Kingdom,United Kingdom Orange,GBP,15,15,0,20.06,-
+UK_OR,United Kingdom,United Kingdom Orange,GBP,20,20,0,26.75,-
+UK_TM,United Kingdom,United Kingdom T Mobile,GBP,5,5,0,6.69,-
+UK_TM,United Kingdom,United Kingdom T Mobile,GBP,10,10,0,13.38,-
+UK_TM,United Kingdom,United Kingdom T Mobile,GBP,20,20,0,26.75,-
+UK_TS,United Kingdom,United Kingdom Tesco Mobile,GBP,10,10,0,13.38,-
+UK_TS,United Kingdom,United Kingdom Tesco Mobile,GBP,15,15,0,20.06,-
+UK_TS,United Kingdom,United Kingdom Tesco Mobile,GBP,20,20,0,26.75,-
+UK_VM,United Kingdom,United Kingdom Virgin Mobile,GBP,5,5,0,6.69,-
+UK_VM,United Kingdom,United Kingdom Virgin Mobile,GBP,10,10,0,13.38,-
+UK_VM,United Kingdom,United Kingdom Virgin Mobile,GBP,20,20,0,26.75,-
+UK_VF,United Kingdom,United Kingdom Vodafone,GBP,5,5,0,6.69,-
+UK_VF,United Kingdom,United Kingdom Vodafone,GBP,10,10,0,13.38,-
+UK_VF,United Kingdom,United Kingdom Vodafone,GBP,15,15,0,20.06,-
+UK_VF,United Kingdom,United Kingdom Vodafone,GBP,20,20,0,26.75,-
+UK_VF,United Kingdom,United Kingdom Vodafone,GBP,25,25,0,33.44,-
+UK_VF,United Kingdom,United Kingdom Vodafone,GBP,30,30,0,40.13,-
+UK_VF,United Kingdom,United Kingdom Vodafone,GBP,50,50,0,66.88,-
+US_AT,United States,United States AT&T,USD,10,100,1,-,1.1467
+US_CR,United States,United States Claro (Puerto Rico),USD,5,5,0,4.82,-
+US_CR,United States,United States Claro (Puerto Rico),USD,10,10,0,9.63,-
+US_CR,United States,United States Claro (Puerto Rico),USD,20,20,0,19.26,-
+US_CR,United States,United States Claro (Puerto Rico),USD,30,30,0,28.89,-
+US_CR,United States,United States Claro (Puerto Rico),USD,50,50,0,48.15,-
+US_CR,United States,United States Claro (Puerto Rico),USD,60,60,0,57.78,-
+US_LC,United States,United States Lyca Mobile,USD,10,100,1,-,1.0384
+US_TM,United States,United States T-Mobile,USD,10,100,1,-,0.9585
+US_VW,United States,United States Verizon Wireless,USD,5,150,1,-,1.0501
+UY_MV,Uruguay,Uruguay Movistar,USD,2,70,0.1,-,1.0625
+UZ_BE,Uzbekistan,Uzbekistan Beeline,USD,1,100,0.1,-,0.9713
+UZ_UC,Uzbekistan,Uzbekistan Ucell,USD,1,100,0.1,-,0.9713
+VN_BL,Vietnam,Vietnam Beeline,VND,10000,10000,0,0.44,-
+VN_BL,Vietnam,Vietnam Beeline,VND,20000,20000,0,0.89,-
+VN_BL,Vietnam,Vietnam Beeline,VND,30000,30000,0,1.33,-
+VN_BL,Vietnam,Vietnam Beeline,VND,50000,50000,0,2.21,-
+VN_BL,Vietnam,Vietnam Beeline,VND,100000,100000,0,4.43,-
+VN_BL,Vietnam,Vietnam Beeline,VND,200000,200000,0,8.86,-
+VN_BL,Vietnam,Vietnam Beeline,VND,300000,300000,0,13.28,-
+VN_BL,Vietnam,Vietnam Beeline,VND,500000,500000,0,22.14,-
+MF,Vietnam,Vietnam Mobifone,VND,10000,10000,0,0.45,-
+MF,Vietnam,Vietnam Mobifone,VND,20000,20000,0,0.9,-
+MF,Vietnam,Vietnam Mobifone,VND,30000,30000,0,1.34,-
+MF,Vietnam,Vietnam Mobifone,VND,50000,50000,0,2.24,-
+MF,Vietnam,Vietnam Mobifone,VND,100000,100000,0,4.48,-
+MF,Vietnam,Vietnam Mobifone,VND,200000,200000,0,8.95,-
+MF,Vietnam,Vietnam Mobifone,VND,300000,300000,0,13.43,-
+MF,Vietnam,Vietnam Mobifone,VND,500000,500000,0,22.38,-
+VN_VM,Vietnam,Vietnam Mobile,VND,10000,10000,0,0.44,-
+VN_VM,Vietnam,Vietnam Mobile,VND,20000,20000,0,0.88,-
+VN_VM,Vietnam,Vietnam Mobile,VND,30000,30000,0,1.33,-
+VN_VM,Vietnam,Vietnam Mobile,VND,50000,50000,0,2.21,-
+VN_VM,Vietnam,Vietnam Mobile,VND,100000,100000,0,4.42,-
+VN_VM,Vietnam,Vietnam Mobile,VND,200000,200000,0,8.84,-
+VN_VM,Vietnam,Vietnam Mobile,VND,300000,300000,0,13.26,-
+VN_VM,Vietnam,Vietnam Mobile,VND,500000,500000,0,22.09,-
+VT,Vietnam,Vietnam Viettel Mobile,VND,10000,5000000,10000,-,21800.7412
+VT,Vietnam,Vietnam Viettel Mobile,VND,10000,10000,0,0.46,-
+VT,Vietnam,Vietnam Viettel Mobile,VND,20000,20000,0,0.92,-
+VT,Vietnam,Vietnam Viettel Mobile,VND,30000,30000,0,1.38,-
+VT,Vietnam,Vietnam Viettel Mobile,VND,50000,50000,0,2.29,-
+VT,Vietnam,Vietnam Viettel Mobile,VND,100000,100000,0,4.59,-
+VT,Vietnam,Vietnam Viettel Mobile,VND,200000,200000,0,9.17,-
+VT,Vietnam,Vietnam Viettel Mobile,VND,300000,300000,0,13.76,-
+VT,Vietnam,Vietnam Viettel Mobile,VND,500000,500000,0,22.93,-
+VN,Vietnam,Vietnam Vinaphone,VND,10000,10000,0,0.45,-
+VN,Vietnam,Vietnam Vinaphone,VND,20000,20000,0,0.9,-
+VN,Vietnam,Vietnam Vinaphone,VND,30000,30000,0,1.35,-
+VN,Vietnam,Vietnam Vinaphone,VND,50000,50000,0,2.25,-
+VN,Vietnam,Vietnam Vinaphone,VND,100000,100000,0,4.49,-
+VN,Vietnam,Vietnam Vinaphone,VND,200000,200000,0,8.99,-
+VN,Vietnam,Vietnam Vinaphone,VND,300000,300000,0,13.48,-
+VN,Vietnam,Vietnam Vinaphone,VND,500000,500000,0,22.47,-
+VG_DG,"Virgin Islands, British",British Virgin Islands Digicel,USD,5,50,1,-,1.1485
+VG_LM,"Virgin Islands, British",British Virgin Islands Lime,USD,5,50,1,-,1.0684
+YE_MT,Yemen,Yemen MTN,YER,180,180,0,0.77,-
+YE_MT,Yemen,Yemen MTN,YER,278,278,0,1.2,-
+YE_MT,Yemen,Yemen MTN,YER,476,476,0,2.04,-
+YE_MT,Yemen,Yemen MTN,YER,667,667,0,2.87,-
+YE_MT,Yemen,Yemen MTN,YER,963,963,0,4.14,-
+YE_MT,Yemen,Yemen MTN,YER,1450,1450,0,6.23,-
+YE_MT,Yemen,Yemen MTN,YER,2900,2900,0,12.46,-
+YE_MT,Yemen,Yemen MTN,YER,5800,5800,0,24.93,-
+YE_MT,Yemen,Yemen MTN,YER,8700,8700,0,37.39,-
+YE_SF,Yemen,Yemen Sabafon,YER,230,230,0,1.2,-
+YE_SF,Yemen,Yemen Sabafon,YER,345,345,0,1.79,-
+YE_SF,Yemen,Yemen Sabafon,YER,575,575,0,2.97,-
+YE_SF,Yemen,Yemen Sabafon,YER,1150,1150,0,5.94,-
+YE_SF,Yemen,Yemen Sabafon,YER,2300,2300,0,11.87,-
+YE_SF,Yemen,Yemen Sabafon,YER,3450,3450,0,17.8,-
+YE_SF,Yemen,Yemen Sabafon,YER,5750,5750,0,29.67,-
+YE_YM,Yemen,Yemen Yemen Mobile,YER,100,15000,1,-,242.3808
+ZM_AT,Zambia,Zambia Airtel,ZMW,2,400,1,-,9.5353
+ZM_MT,Zambia,Zambia MTN,ZMW,2,400,1,-,9.9519
+ZM_ZT,Zambia,Zambia Zamtel,ZMW,5,5,0,0.5,-
+ZM_ZT,Zambia,Zambia Zamtel,ZMW,10,10,0,0.99,-
+ZM_ZT,Zambia,Zambia Zamtel,ZMW,20,20,0,1.99,-
+ZM_ZT,Zambia,Zambia Zamtel,ZMW,35,35,0,3.48,-
+ZM_ZT,Zambia,Zambia Zamtel,ZMW,50,50,0,4.97,-
+ZM_ZT,Zambia,Zambia Zamtel,ZMW,70,70,0,6.96,-
+ZM_ZT,Zambia,Zambia Zamtel,ZMW,100,100,0,9.95,-
+ZM_ZT,Zambia,Zambia Zamtel,ZMW,140,140,0,13.93,-
+ZM_ZT,Zambia,Zambia Zamtel,ZMW,250,250,0,24.87,-
+ZW_EN,Zimbabwe,Zimbabwe Econet,USD,1,100,0.1,-,1.0158
+ZW_NO,Zimbabwe,Zimbabwe NetOne,USD,1,100,0.1,-,1.0158
+ZW_TC,Zimbabwe,Zimbabwe Telecel,USD,1,100,0.1,-,1.0384

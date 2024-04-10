@@ -1,0 +1,4547 @@
+Account : Dollarphone Agent Was Created On : 2017-01-03 17:17:04
+TOP5nArray
+(
+    [_id] => Array
+        (
+            [operator_name] => MTN
+            [country] => Nigeria
+        )
+
+    [amount] => 236
+)
+
+TOP5nArray
+(
+    [_id] => Array
+        (
+            [operator_name] => Etisalat
+            [country] => Nigeria
+        )
+
+    [amount] => 115
+)
+
+TOP5nArray
+(
+    [_id] => Array
+        (
+            [operator_name] => MTN
+            [country] => Ghana
+        )
+
+    [amount] => 115
+)
+
+TOP5nArray
+(
+    [_id] => Array
+        (
+            [operator_name] => Vodafone
+            [country] => Ghana
+        )
+
+    [amount] => 49
+)
+
+TOP5nArray
+(
+    [_id] => Array
+        (
+            [operator_name] => Tigo
+            [country] => Ghana
+        )
+
+    [amount] => 14
+)
+
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 33
+            [date] => 16:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 14
+            [date] => 16:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 33
+            [date] => 16:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 16:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 16:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 28
+            [date] => 17:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 9
+            [date] => 17:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 28
+            [date] => 17:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 1
+            [date] => 17:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 17:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 27
+            [date] => 18:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 3
+            [date] => 18:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 27
+            [date] => 18:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 18:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 6
+            [date] => 18:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 24
+            [date] => 19:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 7
+            [date] => 19:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 24
+            [date] => 19:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 19:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 19:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 24
+            [date] => 20:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 8
+            [date] => 20:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 24
+            [date] => 20:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 20:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 1
+            [date] => 20:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 9
+            [date] => 21:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 5
+            [date] => 21:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 9
+            [date] => 21:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 21:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 21:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 24
+            [date] => 22:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 1
+            [date] => 22:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 24
+            [date] => 22:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 22:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 1
+            [date] => 22:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 15
+            [date] => 23:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 4
+            [date] => 23:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 15
+            [date] => 23:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 23:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 23:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 18
+            [date] => 00:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 5
+            [date] => 00:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 18
+            [date] => 00:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 00:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 00:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 6
+            [date] => 01:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 6
+            [date] => 01:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 6
+            [date] => 01:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 10
+            [date] => 01:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 01:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 20
+            [date] => 02:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 14
+            [date] => 02:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 20
+            [date] => 02:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 1
+            [date] => 02:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 02:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 5
+            [date] => 03:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 2
+            [date] => 03:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 5
+            [date] => 03:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 03:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 03:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 1
+            [date] => 04:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 2
+            [date] => 04:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 1
+            [date] => 04:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 04:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 04:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 4
+            [date] => 05:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 0
+            [date] => 05:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 4
+            [date] => 05:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 05:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 05:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 4
+            [date] => 06:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 1
+            [date] => 06:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 4
+            [date] => 06:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 28
+            [date] => 06:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 5
+            [date] => 06:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 11
+            [date] => 07:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 4
+            [date] => 07:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 11
+            [date] => 07:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 07:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 07:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 13
+            [date] => 08:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 3
+            [date] => 08:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 13
+            [date] => 08:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 08:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 08:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 4
+            [date] => 09:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 0
+            [date] => 09:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 4
+            [date] => 09:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 09:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 09:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 7
+            [date] => 10:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 1
+            [date] => 10:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 7
+            [date] => 10:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 10:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 10:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 17
+            [date] => 11:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 4
+            [date] => 11:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 17
+            [date] => 11:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 11:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 11:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 14
+            [date] => 12:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 5
+            [date] => 12:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 14
+            [date] => 12:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 12:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 1
+            [date] => 12:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 14
+            [date] => 13:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 7
+            [date] => 13:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 14
+            [date] => 13:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 0
+            [date] => 13:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 13:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 19
+            [date] => 14:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 4
+            [date] => 14:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 19
+            [date] => 14:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 5
+            [date] => 14:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 14:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+ENTRY TOP5 Nigeria-MTN
+ENTRY TOP5 Nigeria-Etisalat
+ENTRY TOP5 Ghana-MTN
+ENTRY TOP5 Ghana-Vodafone
+ENTRY TOP5 Ghana-Tigo
+ENTRY0 Array
+(
+    [Nigeria-MTN] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => MTN
+            [count] => 10
+            [date] => 15:00
+        )
+
+    [Nigeria-Etisalat] => Array
+        (
+            [country] => Nigeria
+            [operator_name] => Etisalat
+            [count] => 6
+            [date] => 15:00
+        )
+
+    [Ghana-MTN] => Array
+        (
+            [country] => Ghana
+            [operator_name] => MTN
+            [count] => 10
+            [date] => 15:00
+        )
+
+    [Ghana-Vodafone] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Vodafone
+            [count] => 4
+            [date] => 15:00
+        )
+
+    [Ghana-Tigo] => Array
+        (
+            [country] => Ghana
+            [operator_name] => Tigo
+            [count] => 0
+            [date] => 15:00
+        )
+
+)
+
+ENTRY TOP5 AMT Nigeria-MTN
+ENTRY TOP5 AMT Nigeria-Etisalat
+ENTRY TOP5 AMT Ghana-MTN
+ENTRY TOP5 AMT Ghana-Vodafone
+ENTRY TOP5 AMT Ghana-Tigo
+Array
+(
+    [0] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 33
+                            [date] => 16:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 14
+                            [date] => 16:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 33
+                            [date] => 16:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 16:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 16:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 103.18729000574
+                            [0] => 16:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 88.421052398892
+                            [0] => 16:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 103.18729000574
+                            [0] => 16:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 16:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 16:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 47
+                    [failed] => 0
+                    [date] => 16:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 47
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 16:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 28
+                            [date] => 17:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 9
+                            [date] => 17:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 28
+                            [date] => 17:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 1
+                            [date] => 17:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 17:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 88.122763923
+                            [0] => 17:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 56.842105113573
+                            [0] => 17:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 88.122763923
+                            [0] => 17:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 3.0143477007462
+                            [0] => 17:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 17:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 30
+                    [failed] => 8
+                    [date] => 17:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 1
+                    [api] => 37
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 17:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 27
+                            [date] => 18:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 3
+                            [date] => 18:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 27
+                            [date] => 18:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 18:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 6
+                            [date] => 18:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 116.20902961825
+                            [0] => 18:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 18.947368371191
+                            [0] => 18:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 116.20902961825
+                            [0] => 18:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 18:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 1.3912374003444
+                            [0] => 18:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 36
+                    [failed] => 0
+                    [date] => 18:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 36
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 18:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 24
+                            [date] => 19:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 7
+                            [date] => 19:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 24
+                            [date] => 19:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 19:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 19:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 109.30179420652
+                            [0] => 19:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 44.210526199446
+                            [0] => 19:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 109.30179420652
+                            [0] => 19:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 19:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 19:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 29
+                    [failed] => 2
+                    [date] => 19:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 31
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 19:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 24
+                            [date] => 20:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 8
+                            [date] => 20:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 24
+                            [date] => 20:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 20:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 1
+                            [date] => 20:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 123.29036737233
+                            [0] => 20:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 50.52631565651
+                            [0] => 20:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 123.29036737233
+                            [0] => 20:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 20:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0.2318729000574
+                            [0] => 20:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 32
+                    [failed] => 1
+                    [date] => 20:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 33
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 20:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 9
+                            [date] => 21:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 5
+                            [date] => 21:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 9
+                            [date] => 21:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 21:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 21:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 50.390133731056
+                            [0] => 21:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 31.578947285319
+                            [0] => 21:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 50.390133731056
+                            [0] => 21:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 21:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 21:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 14
+                    [failed] => 0
+                    [date] => 21:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 14
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 21:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [6] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 24
+                            [date] => 22:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 1
+                            [date] => 22:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 24
+                            [date] => 22:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 22:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 1
+                            [date] => 22:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 117.72541777095
+                            [0] => 22:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 6.3157894570637
+                            [0] => 22:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 117.72541777095
+                            [0] => 22:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 22:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0.2318729000574
+                            [0] => 22:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 26
+                    [failed] => 0
+                    [date] => 22:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 26
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 22:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [7] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 15
+                            [date] => 23:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 4
+                            [date] => 23:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 15
+                            [date] => 23:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 23:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 23:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 52.351839079219
+                            [0] => 23:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 25.263157828255
+                            [0] => 23:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 52.351839079219
+                            [0] => 23:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 23:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 23:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 19
+                    [failed] => 0
+                    [date] => 23:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 19
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 23:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [8] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 18
+                            [date] => 00:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 5
+                            [date] => 00:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 18
+                            [date] => 00:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 00:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 00:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 69.782808573938
+                            [0] => 00:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 31.578947285319
+                            [0] => 00:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 69.782808573938
+                            [0] => 00:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 00:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 00:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 23
+                    [failed] => 0
+                    [date] => 00:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 23
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 00:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [9] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 6
+                            [date] => 01:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 6
+                            [date] => 01:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 6
+                            [date] => 01:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 10
+                            [date] => 01:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 01:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 11.950668655281
+                            [0] => 01:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 37.894736742382
+                            [0] => 01:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 11.950668655281
+                            [0] => 01:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 2.318729000574
+                            [0] => 01:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 01:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 18
+                    [failed] => 4
+                    [date] => 01:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 22
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 01:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [10] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 20
+                            [date] => 02:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 14
+                            [date] => 02:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 20
+                            [date] => 02:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 1
+                            [date] => 02:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 02:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 98.674982756946
+                            [0] => 02:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 88.421052398892
+                            [0] => 02:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 98.674982756946
+                            [0] => 02:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 3.0143477007462
+                            [0] => 02:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 02:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 24
+                    [failed] => 11
+                    [date] => 02:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 35
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 02:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [11] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 5
+                            [date] => 03:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 2
+                            [date] => 03:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 5
+                            [date] => 03:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 03:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 03:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 20.780267462113
+                            [0] => 03:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 12.631578914127
+                            [0] => 03:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 20.780267462113
+                            [0] => 03:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 03:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 03:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 7
+                    [failed] => 0
+                    [date] => 03:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 7
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 03:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [12] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 1
+                            [date] => 04:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 2
+                            [date] => 04:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 1
+                            [date] => 04:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 04:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 04:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 6.1538461538462
+                            [0] => 04:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 12.631578914127
+                            [0] => 04:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 6.1538461538462
+                            [0] => 04:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 04:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 04:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 3
+                    [failed] => 0
+                    [date] => 04:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 3
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 04:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [13] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 4
+                            [date] => 05:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 0
+                            [date] => 05:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 4
+                            [date] => 05:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 05:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 05:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 19.620902961825
+                            [0] => 05:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 0
+                            [0] => 05:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 19.620902961825
+                            [0] => 05:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 05:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 05:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 4
+                    [failed] => 0
+                    [date] => 05:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 4
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 05:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [14] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 4
+                            [date] => 06:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 1
+                            [date] => 06:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 4
+                            [date] => 06:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 28
+                            [date] => 06:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 5
+                            [date] => 06:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 24.615384615385
+                            [0] => 06:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 6.3157894570637
+                            [0] => 06:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 24.615384615385
+                            [0] => 06:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 6.4924412016073
+                            [0] => 06:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 1.159364500287
+                            [0] => 06:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 33
+                    [failed] => 5
+                    [date] => 06:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 38
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 06:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [15] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 11
+                            [date] => 07:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 4
+                            [date] => 07:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 11
+                            [date] => 07:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 07:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 07:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 47.714381078071
+                            [0] => 07:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 25.263157828255
+                            [0] => 07:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 47.714381078071
+                            [0] => 07:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 07:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 07:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 15
+                    [failed] => 0
+                    [date] => 07:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 15
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 07:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [16] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 13
+                            [date] => 08:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 3
+                            [date] => 08:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 13
+                            [date] => 08:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 08:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 08:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 65.016555039323
+                            [0] => 08:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 18.947368371191
+                            [0] => 08:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 65.016555039323
+                            [0] => 08:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 08:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 08:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 16
+                    [failed] => 0
+                    [date] => 08:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 16
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 08:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [17] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 4
+                            [date] => 09:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 0
+                            [date] => 09:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 4
+                            [date] => 09:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 09:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 09:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 14.626421308266
+                            [0] => 09:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 0
+                            [0] => 09:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 14.626421308266
+                            [0] => 09:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 09:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 09:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 4
+                    [failed] => 0
+                    [date] => 09:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 4
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 09:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [18] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 7
+                            [date] => 10:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 1
+                            [date] => 10:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 7
+                            [date] => 10:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 10:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 10:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 43.076923076923
+                            [0] => 10:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 6.3157894570637
+                            [0] => 10:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 43.076923076923
+                            [0] => 10:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 10:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 10:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 8
+                    [failed] => 0
+                    [date] => 10:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 8
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 10:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [19] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 17
+                            [date] => 11:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 4
+                            [date] => 11:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 17
+                            [date] => 11:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 11:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 11:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 99.877313218236
+                            [0] => 11:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 25.263157828255
+                            [0] => 11:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 99.877313218236
+                            [0] => 11:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 11:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 11:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 21
+                    [failed] => 0
+                    [date] => 11:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 21
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 11:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [20] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 14
+                            [date] => 12:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 5
+                            [date] => 12:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 14
+                            [date] => 12:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 12:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 1
+                            [date] => 12:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 81.159364500287
+                            [0] => 12:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 31.578947285319
+                            [0] => 12:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 81.159364500287
+                            [0] => 12:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 12:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0.2318729000574
+                            [0] => 12:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 20
+                    [failed] => 0
+                    [date] => 12:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 20
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 12:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [21] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 14
+                            [date] => 13:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 7
+                            [date] => 13:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 14
+                            [date] => 13:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 0
+                            [date] => 13:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 13:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 86.153846153846
+                            [0] => 13:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 44.210526199446
+                            [0] => 13:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 86.153846153846
+                            [0] => 13:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0
+                            [0] => 13:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 13:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 21
+                    [failed] => 0
+                    [date] => 13:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 21
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 13:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [22] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 19
+                            [date] => 14:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 4
+                            [date] => 14:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 19
+                            [date] => 14:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 5
+                            [date] => 14:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 14:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 126.86153846154
+                            [0] => 14:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 25.263157828255
+                            [0] => 14:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 126.86153846154
+                            [0] => 14:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 1.159364500287
+                            [0] => 14:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 14:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 28
+                    [failed] => 0
+                    [date] => 14:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 28
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 14:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+    [23] => Array
+        (
+            [top5_dest_count] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [count] => 10
+                            [date] => 15:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [count] => 6
+                            [date] => 15:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [count] => 10
+                            [date] => 15:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [count] => 4
+                            [date] => 15:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [count] => 0
+                            [date] => 15:00
+                        )
+
+                )
+
+            [top5_dest_amount] => Array
+                (
+                    [Nigeria-MTN] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => MTN
+                            [amount] => 41.560534924225
+                            [0] => 15:00
+                        )
+
+                    [Nigeria-Etisalat] => Array
+                        (
+                            [country] => Nigeria
+                            [operator_name] => Etisalat
+                            [amount] => 37.894736742382
+                            [0] => 15:00
+                        )
+
+                    [Ghana-MTN] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => MTN
+                            [amount] => 41.560534924225
+                            [0] => 15:00
+                        )
+
+                    [Ghana-Vodafone] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Vodafone
+                            [amount] => 0.92749160022962
+                            [0] => 15:00
+                        )
+
+                    [Ghana-Tigo] => Array
+                        (
+                            [country] => Ghana
+                            [operator_name] => Tigo
+                            [amount] => 0
+                            [0] => 15:00
+                        )
+
+                )
+
+            [suxx_vs_fail] => Array
+                (
+                    [successful] => 20
+                    [failed] => 0
+                    [date] => 15:00
+                )
+
+            [topups_by_channel] => Array
+                (
+                    [web] => 0
+                    [api] => 20
+                    [pinp] => 0
+                    [ivr] => 0
+                    [date] => 15:00
+                )
+
+            [amounts_by_code] => Array
+                (
+                    [0] => Array
+                        (
+                            [_id] => RECHARGE_COMPLETE
+                            [count] => 498
+                            [amount] => 2202.6246558868
+                        )
+
+                    [1] => Array
+                        (
+                            [_id] => RECHARGE_FAILED
+                            [count] => 25
+                            [amount] => 157.89473642659
+                        )
+
+                    [2] => Array
+                        (
+                            [_id] => OPERATOR_FAILURE
+                            [count] => 6
+                            [amount] => 4.1737122010333
+                        )
+
+                )
+
+        )
+
+)
